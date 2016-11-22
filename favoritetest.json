@@ -4246,14 +4246,6 @@ meta: {
 more: "/tv/v3/recommend?list_id=22&header_name=电影&header_position=3&navigation=首页导航"
 },
 images: {
-focused_icon: {
-url: "http://r3.cp31.ott.cibntv.net/05100000580725E86714C00D090A517E",
-md5: "4c83e5db0ae08a453fc21ced15d8fc81"
-},
-normal_icon: {
-url: "http://r3.cp31.ott.cibntv.net/0510000057FDD1A86714C004CD0531A8",
-md5: "a29c4de32bdfe1b8e60d821b6b1f3374"
-}
 },
 id: 446,
 src: "tv/v3/component/list?id=446&is_src=1",
