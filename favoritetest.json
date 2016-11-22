@@ -4231,6 +4231,15 @@ id: "",
 stat_name: "全部"
 }
 ],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+}
+],
 ad: {},
 stat: {},
 meta: {
