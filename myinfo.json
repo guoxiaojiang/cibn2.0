@@ -4283,7 +4283,7 @@ url: "tv/v3/component/list?id=788&tab=244",
 schema: "yktv",
 entity: "channel"
 },
-title: "收藏",
+title: "账号",
 hint: {
 right: "",
 center: "",
