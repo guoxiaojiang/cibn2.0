@@ -1067,7 +1067,7 @@
             "title": "罗罗啦啦乱",
             "ui_type": {
                 "unitary": false,
-                "name": "block_grid_classic_sh"
+                "name": "block_grid_classic_h"
             },
             "ad": {
                 "enable": false
@@ -2136,7 +2136,7 @@
             "title": "周杰伦",
             "ui_type": {
                 "unitary": false,
-                "name": "block_grid_classic_sh"
+                "name": "block_grid_classic_h"
             },
             "ad": {
                 "enable": false
