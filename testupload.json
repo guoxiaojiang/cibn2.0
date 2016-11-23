@@ -1,0 +1,4269 @@
+{
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+blocks: [
+{
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=127771b40e0711df97c0",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "魔兽",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 0,
+navigation: "个人中心",
+name: "魔兽",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢喜密探",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 1,
+navigation: "个人中心",
+name: "欢喜密探",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "中国新歌声 2016",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 2,
+navigation: "个人中心",
+name: "中国新歌声 2016",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=df558696b5ed11e5a080",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "王牌对王牌 2016",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 3,
+navigation: "个人中心",
+name: "王牌对王牌 2016",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=6b2fc09c55d011e59e2a",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢乐颂",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 4,
+navigation: "个人中心",
+name: "欢乐颂",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=239283364ee211e5a080",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "前任2:备胎反击战",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 5,
+navigation: "个人中心",
+name: "前任2:备胎反击战",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=11005038454911e5b432",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "看见味道的少女",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 6,
+navigation: "个人中心",
+name: "看见味道的少女",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=049a794cc86511e4b8e3",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "Tinrry下午茶 2015",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 7,
+navigation: "个人中心",
+name: "Tinrry下午茶 2015",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=f2a09a4034d611e4abda",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "红色",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 8,
+navigation: "个人中心",
+name: "红色",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=a204f79c5bf211e3b8b7",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "功夫熊猫3",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 9,
+navigation: "个人中心",
+name: "功夫熊猫3",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=14dd3510564c11e3b8b7",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "道士下山",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 10,
+navigation: "个人中心",
+name: "道士下山",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=4167d498bceb11e0bf93",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "一步之遥",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 11,
+navigation: "个人中心",
+name: "一步之遥",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=ca2bd56e6f4111e69c81",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "麻雀 未删减版",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 12,
+navigation: "个人中心",
+name: "麻雀 未删减版",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=eb430c68a87211e5b432",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "维度战记",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 13,
+navigation: "个人中心",
+name: "维度战记",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=059fe86e7ed011e5b522",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "龙门镖局之为2归来",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 14,
+navigation: "个人中心",
+name: "龙门镖局之为2归来",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "青云志 TV版",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 15,
+navigation: "个人中心",
+name: "青云志 TV版",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "麻雀 TV版",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 16,
+navigation: "个人中心",
+name: "麻雀 TV版",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=72a260840ab411e6a080",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "三八线",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 17,
+navigation: "个人中心",
+name: "三八线",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=13d65126d43e11e4b2ad",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "舌尖上的年味 第二季",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 18,
+navigation: "个人中心",
+name: "舌尖上的年味 第二季",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=70a87648af6911e5b2ad",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "默契一家人 2016",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 19,
+navigation: "个人中心",
+name: "默契一家人 2016",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=30dd4bfa060411e6a080",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "好先生",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 20,
+navigation: "个人中心",
+name: "好先生",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=94b384f28f3311e5b2ad",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "娱闻第一速递 2016 3月",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 21,
+navigation: "个人中心",
+name: "娱闻第一速递 2016 3月",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=d56886dc86fc11e3a705",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "琅琊榜",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 22,
+navigation: "个人中心",
+name: "琅琊榜",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=73760a924f5d11e4b2ad",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "一个勺子",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 23,
+navigation: "个人中心",
+name: "一个勺子",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=c99085240dca11e683e8",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "小丈夫",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 24,
+navigation: "个人中心",
+name: "小丈夫",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=1b55ab0cf30311e4abda",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "袁游 第一季",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 25,
+navigation: "个人中心",
+name: "袁游 第一季",
+pagenum: 1,
+type: "收藏节目"
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "tv/v3/show/detail?id=1771a3ace75311e59e2a",
+entity: "detail:show",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "校园天才医生",
+images: {
+poster: {
+url: "",
+md5: "d41d8cd98f00b204e9800998ecf8427e"
+}
+},
+sub_title: "",
+stat: {
+position: 26,
+navigation: "个人中心",
+name: "校园天才医生",
+pagenum: 1,
+type: "收藏节目"
+}
+}
+],
+stat: {
+position: 1,
+navigation: "个人中心",
+name: "节目",
+pagenum: 1,
+type: "收藏"
+},
+title: "节目",
+ui_type: {
+unitary: false,
+name: "block_grid_classic_h"
+},
+ad: {
+enable: false
+}
+},
+{
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMjA1MDk0MjU2",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "神话",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05520408531770326A0A4D4C03805548",
+md5: "15ee790ffd46a8f8b0b6f084edaae343"
+}
+},
+sub_title: "神话 10",
+stat: {
+position: 0,
+navigation: "个人中心",
+name: "神话",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMjA1MDk0MjU2"
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTc2NTk2Mzg2MA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "海底总动员2:多莉去哪儿",
+images: {
+poster: {
+url: "http://r3.ykimg.com/055202085806F3996A0A400461F1D920",
+md5: "dd4fe08207ef2a5faab5d01df5860cf1"
+}
+},
+sub_title: "海底总动员2:多莉去哪儿 国语版",
+stat: {
+position: 1,
+navigation: "个人中心",
+name: "海底总动员2:多莉去哪儿",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTc2NTk2Mzg2MA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTc0NDkyMjc0MA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "喜剧总动员 2016",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0552040857F0D8616A0A47047E119240",
+md5: "e114f62e686ced6d16272a1d7c1c83c5"
+}
+},
+sub_title: "郭德纲插足沙溢胡可 欧弟郭麒麟组神兽CP 161001",
+stat: {
+position: 2,
+navigation: "个人中心",
+name: "喜剧总动员 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTc0NDkyMjc0MA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTcxOTczMTg5Ng==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "危城",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552040857D316616A0A4E0456E53806",
+md5: "1734dab58ea46f5d8c27a87864d53981"
+}
+},
+sub_title: "危城",
+stat: {
+position: 3,
+navigation: "个人中心",
+name: "危城",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTcxOTczMTg5Ng=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTcxOTQ1MzI1Ng==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "中国新歌声 2016",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0552040857D345756A0A3F04E31370EB",
+md5: "b4791a49dea0c7211925c5dce30a8a18"
+}
+},
+sub_title: "中国新歌声 160909",
+stat: {
+position: 4,
+navigation: "个人中心",
+name: "中国新歌声 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTcxOTQ1MzI1Ng=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTcwNDMyMjIwNA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "步步惊心:丽",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0552040857C593AF6A0A4B0454FB6E7F",
+md5: "897c5e4315de20c47ee910096060bfa2"
+}
+},
+sub_title: "步步惊心:丽 01",
+stat: {
+position: 5,
+navigation: "个人中心",
+name: "步步惊心:丽",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTcwNDMyMjIwNA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTY3Mjg0NTEwNA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "中国新歌声 2016",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0552030857A5BEB86A0A4B047392EDF5",
+md5: "3fcc1c7f1ada49446a30ba47004a94b7"
+}
+},
+sub_title: "中国新歌声 160805",
+stat: {
+position: 6,
+navigation: "个人中心",
+name: "中国新歌声 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTY3Mjg0NTEwNA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTYzMTMzNjQ1Ng==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "Oh! My Baby 2016",
+images: {
+poster: {
+url: "http://r1.ykimg.com/05520408577A417D6A0A4404ABCB50EA",
+md5: "c768f8f7c35193d8038a9a12ebe67b7e"
+}
+},
+sub_title: "Oh! My Baby 160702",
+stat: {
+position: 7,
+navigation: "个人中心",
+name: "Oh! My Baby 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTYzMTMzNjQ1Ng=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU4OTc4OTQwMA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "Oh! My Baby 2016",
+images: {
+poster: {
+url: "http://r1.ykimg.com/05520408574C134B6A0A4704E7925DE5",
+md5: "a3a9ddc96c966b8d79519f779e2b80eb"
+}
+},
+sub_title: "Oh! My Baby 160528",
+stat: {
+position: 8,
+navigation: "个人中心",
+name: "Oh! My Baby 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU4OTc4OTQwMA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU4MTY4OTg5Mg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "仙剑云之凡",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05520408574409926A0A4E04DD52137E",
+md5: "6d06b0994c92db80ba53e65485b5d149"
+}
+},
+sub_title: "仙剑云之凡 01",
+stat: {
+position: 9,
+navigation: "个人中心",
+name: "仙剑云之凡",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU4MTY4OTg5Mg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU2NTk5MDgxMg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "功夫熊猫3",
+images: {
+poster: {
+url: "http://r4.ykimg.com/055204085732D4B26A0A4D2D9B98536F",
+md5: "74f1a7620761f7d3704955c47f89e26c"
+}
+},
+sub_title: "功夫熊猫3",
+stat: {
+position: 10,
+navigation: "个人中心",
+name: "功夫熊猫3",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU2NTk5MDgxMg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU0MTg3MzIxNg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢乐颂",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552040858179AAE6A0A4505063336F6",
+md5: "b59d95c087411bb04a96038bee5abfc2"
+}
+},
+sub_title: "欢乐颂 05",
+stat: {
+position: 11,
+navigation: "个人中心",
+name: "欢乐颂",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU0MTg3MzIxNg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTUzOTM5MjAxNg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢乐颂",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552040857CFA2906A0A4204E0CA6EB8",
+md5: "7066d8acd1cc0150fbc19d9aafc32ace"
+}
+},
+sub_title: "欢乐颂 01",
+stat: {
+position: 12,
+navigation: "个人中心",
+name: "欢乐颂",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTUzOTM5MjAxNg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTQ2MDQ1NTg4OA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "王牌对王牌 2016",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0552020856B07BD06A0A4C0470975C08",
+md5: "1ee390c1c327aa5c9ffbf07fbbdd27a5"
+}
+},
+sub_title: "王牌对王牌 160129",
+stat: {
+position: 13,
+navigation: "个人中心",
+name: "王牌对王牌 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTQ2MDQ1NTg4OA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTM2NTUxMjc4OA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "火影忍者",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0552040856274EA96A0A46045C4828CF",
+md5: "6743088533f59f1daef8ef2297e80557"
+}
+},
+sub_title: "第655话 优先顺序",
+stat: {
+position: 14,
+navigation: "个人中心",
+name: "火影忍者",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTM2NTUxMjc4OA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTM1OTQ1NDc3Ng==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "火影忍者",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05520408561F1CC76A0A4C04F308A66C",
+md5: "8fb6219e0ebc82b59a318ea47c734add"
+}
+},
+sub_title: "第654话 自来也小队",
+stat: {
+position: 15,
+navigation: "个人中心",
+name: "火影忍者",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTM1OTQ1NDc3Ng=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XODkwNzUzNDQ4",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "智取威虎山",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552040854DA6C5E6A0A440931FE17F3",
+md5: "c8e4369d6caceae0eb619557e4641c03"
+}
+},
+sub_title: "智取威虎山",
+stat: {
+position: 16,
+navigation: "个人中心",
+name: "智取威虎山",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XODkwNzUzNDQ4"
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XNzk5NzUxNDY0",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "天才眼镜狗",
+images: {
+poster: {
+url: "http://r1.ykimg.com/055204085436B69C6A0A42045BE1EBD5",
+md5: "f4f2811d23d3bdb12a2a4a4a2319f17b"
+}
+},
+sub_title: "天才眼镜狗 3D版",
+stat: {
+position: 17,
+navigation: "个人中心",
+name: "天才眼镜狗",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XNzk5NzUxNDY0"
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU4NDYyNTcwNA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0552040856F2D4226A0A460444889724",
+md5: "dde81a8f14b994baeda30bfd787f5568"
+}
+},
+sub_title: "【暴吖爱音乐】BIGBANG成员齐聚BANG BANG BANG舞蹈教学",
+stat: {
+position: 18,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU4NDYyNTcwNA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XOTQ1ODA3ODQ=",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/055204085238279E6A0A4B63AC65E677",
+md5: "efeb9117be7f5a54d4a800baf3c51aaa"
+}
+},
+sub_title: "舞林大道 20090215 小猪罗志祥和大S徐熙媛跳撐腰舞",
+stat: {
+position: 19,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XOTQ1ODA3ODQ="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XNjU5MjM0NDk2",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0552040852CD617B6A0A4C4C42A30CF0",
+md5: "5f9f97e1095ae036b4dff4f885f8d3ae"
+}
+},
+sub_title: "天天向上青花瓷扇子舞_标清",
+stat: {
+position: 20,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XNjU5MjM0NDk2"
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTQ5Njg0MDI0NA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "恐龙当家",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
+md5: "598863ab0909c575d34bdc0159b4a084"
+}
+},
+sub_title: "恐龙当家",
+stat: {
+position: 21,
+navigation: "个人中心",
+name: "恐龙当家",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTQ5Njg0MDI0NA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTc2NTg5MTA0NA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢喜密探",
+images: {
+poster: {
+url: "http://r4.ykimg.com/055204085806DB126A0A48045D0EE30B",
+md5: "72e585c52ac1e9e6fac2c8e15eef82d0"
+}
+},
+sub_title: "欢喜密探 05",
+stat: {
+position: 22,
+navigation: "个人中心",
+name: "欢喜密探",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTc2NTg5MTA0NA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTc2NDU3MTMzNg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "欢喜密探",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05520408580597676A0A420454385A53",
+md5: "4b482ac26f82e9ddf28e7a6b43327abb"
+}
+},
+sub_title: "欢喜密探 04",
+stat: {
+position: 23,
+navigation: "个人中心",
+name: "欢喜密探",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTc2NDU3MTMzNg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTcxNTA2OTEwNA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "使徒行者",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0552050857CE7B736A0A4D048ECA58B1",
+md5: "9b143265b72319eb5fa1288ae3d16627"
+}
+},
+sub_title: "使徒行者",
+stat: {
+position: 24,
+navigation: "个人中心",
+name: "使徒行者",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTcxNTA2OTEwNA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTY1MzUyNTYyMA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0552040857926B986A0A450446F0B061",
+md5: "8461745a41e19de4f63af40d478ff45e"
+}
+},
+sub_title: "Android开发-Android十大最新技术—安卓热更新【动脑学院】",
+stat: {
+position: 25,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTY1MzUyNTYyMA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU3NjQzMzc5Mg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "怒海救援",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05520408578CD9D76A0A4A051E173317",
+md5: "d4b28eebb99893c1560e948f21d00ed6"
+}
+},
+sub_title: "怒海救援",
+stat: {
+position: 26,
+navigation: "个人中心",
+name: "怒海救援",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU3NjQzMzc5Mg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTUxMTc3NjY4MA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0552070856F57AF76A0A4C0473AA8F01",
+md5: "718839b647c8b9124c117a624bb79f85"
+}
+},
+sub_title: "牯岭街少年杀人事件1991",
+stat: {
+position: 27,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTUxMTc3NjY4MA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTY5ODMxODAyNA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "金星秀 2016",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0552040857BE6A656A0A4E044E53971C",
+md5: "1b0577e92831bf058ab646d93b782081"
+}
+},
+sub_title: "金星秀 160824",
+stat: {
+position: 28,
+navigation: "个人中心",
+name: "金星秀 2016",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTY5ODMxODAyNA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTUzMjM5MjMyOA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "双星之阴阳师",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05520408570CD25C6A0A472C2C283CD3",
+md5: "2b1816608b535dcee2fdeb37f30b1d22"
+}
+},
+sub_title: "第02话 双星交战",
+stat: {
+position: 29,
+navigation: "个人中心",
+name: "双星之阴阳师",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTUzMjM5MjMyOA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTM3NTc1MTg0OA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "你不知道的西游记",
+images: {
+poster: {
+url: "http://r4.ykimg.com/055204085636FAAF6A0A40048D29930C",
+md5: "1ca99e094066332b1654d8534e401da6"
+}
+},
+sub_title: "灵山上的贪婪",
+stat: {
+position: 30,
+navigation: "个人中心",
+name: "你不知道的西游记",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTM3NTc1MTg0OA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTUwNDk4MjUzMg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "娱闻第一速递 2016 3月",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0552040856ED09516A0A4D2D96AB1C7F",
+md5: "717d89c46eb3216f2cc8dc9b91b90700"
+}
+},
+sub_title: "许巍:生活不止眼前的苟且 160319",
+stat: {
+position: 31,
+navigation: "个人中心",
+name: "娱闻第一速递 2016 3月",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTUwNDk4MjUzMg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU3NzgyMzU1Mg==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05520408573EF7016A0A4B0473904F98",
+md5: "23c7480d6a1ff3d53976a30ef911077a"
+}
+},
+sub_title: "每日文娱播报20160520电视剧《我们家的微幸福生活》片段 高清",
+stat: {
+position: 32,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU3NzgyMzU1Mg=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XMTU1NDY5NjM0NA==",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0552040857260A696A0A4D2D9366EE58",
+md5: "ba574465cf4ab8cf12e71819074a637d"
+}
+},
+sub_title: "魏则西生前自录视频：我还有梦想还想看看这个世界",
+stat: {
+position: 33,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XMTU1NDY5NjM0NA=="
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item_favorite"
+},
+target: {
+url: "v3/common/h265/play?id=XNjI5MTEwNTc2",
+entity: "detail:video",
+params: {
+android_intent: ""
+},
+schema: "yktv"
+},
+title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/055204085273EB076A0A3F42BB594FE8",
+md5: "f25432ff17f2aa60bdea576b1179af99"
+}
+},
+sub_title: "【泰迪翻译】乔布斯：最后的访谈 AllThingsD8全程中文",
+stat: {
+position: 34,
+navigation: "个人中心",
+name: "",
+pagenum: 1,
+type: "收藏视频"
+},
+videoid: "XNjI5MTEwNTc2"
+}
+],
+stat: {
+position: 1,
+navigation: "个人中心",
+name: "视频",
+pagenum: 1,
+type: "收藏"
+},
+title: "视频",
+ui_type: {
+unitary: false,
+name: "block_grid_classich_h"
+},
+ad: {
+enable: false
+}
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "鸿观 2015",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a44484faf2fa11e4b5ce",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "鸿观 2015",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000554875EB67BC3C16FB02C291"
+}
+},
+ns: "video",
+id: "YK/a44484faf2fa11e4b5ce",
+stat_name: "鸿观 2015"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "怪兽来了",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=1b37a9bc01b511e4a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "怪兽来了",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000053B6713267379F10F2070B65"
+}
+},
+ns: "video",
+id: "YK/1b37a9bc01b511e4a705",
+stat_name: "怪兽来了"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "日食记 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a5ba6db83a2711e4b522",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "日食记 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005412603767379F152C038494"
+}
+},
+ns: "video",
+id: "YK/a5ba6db83a2711e4b522",
+stat_name: "日食记 第二季"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "季录",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=4f663e84e45011e2a19e",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "季录",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000055307E5367BC3C6C530E725A"
+}
+},
+ns: "video",
+id: "YK/4f663e84e45011e2a19e",
+stat_name: "季录"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "冒险雷探长",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=b45aa96c2f7a11e4b2ad",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "冒险雷探长",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000054008DC367379F110D0A057A"
+}
+},
+ns: "video",
+id: "YK/b45aa96c2f7a11e4b2ad",
+stat_name: "冒险雷探长"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "袁游 第一季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=1b55ab0cf30311e4abda",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "袁游 第一季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005548846F67BC3C17C9067A43"
+}
+},
+ns: "video",
+id: "YK/1b55ab0cf30311e4abda",
+stat_name: "袁游 第一季"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多纪录片"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "日食记 第一季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=1705e55288a211e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "日食记 第一季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000053951B5367379F05B107680A"
+}
+},
+ns: "video",
+id: "YK/1705e55288a211e38b3f",
+stat_name: "日食记 第一季"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "我是谁",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=015285e270ab11e5b432",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "我是谁",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000561B546E67BC3C2E090B5493"
+}
+},
+ns: "video",
+id: "YK/015285e270ab11e5b432",
+stat_name: "我是谁"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "空腹",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=be7e865efe9e11e4b5ce",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "空腹",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000570F365767BC3C4F8E01550E"
+}
+},
+ns: "video",
+id: "YK/be7e865efe9e11e4b5ce",
+stat_name: "空腹"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "第三极",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=887e125c60da11e4a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "第三极",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000054FE756667379F38520869BE"
+}
+},
+ns: "video",
+id: "YK/887e125c60da11e4a080",
+stat_name: "第三极"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "VICE人物精选",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "VICE人物精选",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000055FBBBDB67BC3C18DB055A20"
+}
+},
+ns: "video",
+id: "YK/1c5c796a5dd211e5a080",
+stat_name: "VICE人物精选"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2444&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000582BE3516714C067BA0B4FCB"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "报告老板！",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=3a35da1c63ba11e3a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "报告老板！",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000052B79BE16758396E860D624C"
+}
+},
+ns: "video",
+id: "YK/3a35da1c63ba11e3a705",
+stat_name: "报告老板！"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "奔跑吧兄弟",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=ed6b4c7497b811e4b522",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "奔跑吧兄弟",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000054C9AB4F67379F72FC01F12D"
+}
+},
+ns: "video",
+id: "YK/ed6b4c7497b811e4b522",
+stat_name: "奔跑吧兄弟"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "捉妖记",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=814ddd08cf4111e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "捉妖记",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000558B6C4767BC3C4279080058"
+}
+},
+ns: "video",
+id: "YK/814ddd08cf4111e38b3f",
+stat_name: "捉妖记"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "澳门风云2",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=9bbfdee4db4d11e3b8b7",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "澳门风云2",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000054CB337B67379F1D830AA9E0"
+}
+},
+ns: "video",
+id: "YK/9bbfdee4db4d11e3b8b7",
+stat_name: "澳门风云2"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "父亲",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=63805698092811e1a046",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "父亲",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005195F7996758394E36090903"
+}
+},
+ns: "video",
+id: "YK/63805698092811e1a046",
+stat_name: "父亲"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "电影公嗨课",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=c4a55456f2f811e4a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "电影公嗨课",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E00005548933867BC3C21FB07EE59"
+}
+},
+ns: "video",
+id: "YK/c4a55456f2f811e4a080",
+stat_name: "电影公嗨课"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多电影"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "道士下山",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=14dd3510564c11e3b8b7",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "道士下山",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000558B696F67BC3C376E0384C4"
+}
+},
+ns: "video",
+id: "YK/14dd3510564c11e3b8b7",
+stat_name: "道士下山"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "老男孩猛龙过江",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a5b3b6cc79a111e3b8b7",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "老男孩猛龙过江",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000053B7967C67379F112407AAE9"
+}
+},
+ns: "video",
+id: "YK/a5b3b6cc79a111e3b8b7",
+stat_name: "老男孩猛龙过江"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "重返20岁",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=02769222f9b211e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "重返20岁",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000054E15A6867379F6E8B05A551"
+}
+},
+ns: "video",
+id: "YK/02769222f9b211e38b3f",
+stat_name: "重返20岁"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "有一个地方只有我们知道",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=d3344b7afc5011e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "有一个地方只有我们知道",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000055090BDE67379F31E7004947"
+}
+},
+ns: "video",
+id: "YK/d3344b7afc5011e38b3f",
+stat_name: "有一个地方只有我们知道"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "星映话 2015",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=eaf6ac08a12811e4abda",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "星映话 2015",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000054BF305167379F1D4709BC12"
+}
+},
+ns: "video",
+id: "YK/eaf6ac08a12811e4abda",
+stat_name: "星映话 2015"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2450&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000582BE3556714C067B20492FB"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "轻松时刻 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=b795a2f4d39311e4b8e3",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "轻松时刻 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005618CADE67BC3C2E8702B5E8"
+}
+},
+ns: "video",
+id: "YK/b795a2f4d39311e4b8e3",
+stat_name: "轻松时刻 第二季"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "奔跑吧兄弟 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=370fd4969ac311e4b522",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "奔跑吧兄弟 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005514FFE467379F75D205AA8D"
+}
+},
+ns: "video",
+id: "YK/370fd4969ac311e4b522",
+stat_name: "奔跑吧兄弟 第二季"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "暴走漫画—暴走大事件 第三季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=358fb9aafb7d11e3a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "暴走漫画—暴走大事件 第三季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000053B63F5F67379F14FB0ABF79"
+}
+},
+ns: "video",
+id: "YK/358fb9aafb7d11e3a705",
+stat_name: "暴走漫画—暴走大事件 第三季"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "轻松时刻 第一季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a3c68ac2dc8311e1b52a",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "轻松时刻 第一季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005618CAFA67BC3C30F806976C"
+}
+},
+ns: "video",
+id: "YK/a3c68ac2dc8311e1b52a",
+stat_name: "轻松时刻 第一季"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "中国新歌声 2016",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "中国新歌声 2016",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000577F84EA67BC3C624D05AEBD"
+}
+},
+ns: "video",
+id: "YK/1b59f42adfa511e5a2a2",
+stat_name: "中国新歌声 2016"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "青年电影馆 第一季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=8ac1a63e948711e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "青年电影馆 第一季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000055657DC967BC3C1E7F0E9135"
+}
+},
+ns: "video",
+id: "YK/8ac1a63e948711e38b3f",
+stat_name: "青年电影馆 第一季"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多综艺"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "极限挑战 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=234cc978f0e411e583e8",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "极限挑战 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000570F151C67BC3C460D01C5F3"
+}
+},
+ns: "video",
+id: "YK/234cc978f0e411e583e8",
+stat_name: "极限挑战 第二季"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "欢乐喜剧人 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=9a5e274ab44511e59e2a",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "欢乐喜剧人 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000568CC0EB67BC3C0918058B4E"
+}
+},
+ns: "video",
+id: "YK/9a5e274ab44511e59e2a",
+stat_name: "欢乐喜剧人 第二季"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "【牛人】胥渡吧",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=6dfa81c836e611e3a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "【牛人】胥渡吧",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000525FC2186758392B1F0C2DA0"
+}
+},
+ns: "video",
+id: "YK/6dfa81c836e611e3a705",
+stat_name: "【牛人】胥渡吧"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "侣行 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=49ae58ae30b911e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "侣行 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000052E0FBD26758392A5608BC52"
+}
+},
+ns: "video",
+id: "YK/49ae58ae30b911e38b3f",
+stat_name: "侣行 第二季"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "金星秀 2016",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "金星秀 2016",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000056824CBB67BC3C36E10B77B2"
+}
+},
+ns: "video",
+id: "YK/e3b38316ae0711e5be16",
+stat_name: "金星秀 2016"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2489&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000582BE36F6714C0681E047AD9"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "花千骨 TV版",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=af02ac580b5711e5a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "花千骨 TV版",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058218C7767BC3C1D6205C4A4"
+}
+},
+ns: "video",
+id: "YK/af02ac580b5711e5a080",
+stat_name: "花千骨 TV版"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "微微一笑很倾城",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=9cd2277647d311e5b692",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "微微一笑很倾城",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005768E31767BC3C120C01224D"
+}
+},
+ns: "video",
+id: "YK/9cd2277647d311e5b692",
+stat_name: "微微一笑很倾城"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "琅琊榜",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=d56886dc86fc11e3a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "琅琊榜",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058218B9667BC3C1BA30B053B"
+}
+},
+ns: "video",
+id: "YK/d56886dc86fc11e3a705",
+stat_name: "琅琊榜"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "匹诺曹",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=0375f6ec568a11e4a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "匹诺曹",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000057FC5B0967BC3C7AB40E91E2"
+}
+},
+ns: "video",
+id: "YK/0375f6ec568a11e4a080",
+stat_name: "匹诺曹"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "何以笙箫默",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=0af300b2ed2c11e3b8b7",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "何以笙箫默",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000054A9E85167379F42B402F64F"
+}
+},
+ns: "video",
+id: "YK/0af300b2ed2c11e3b8b7",
+stat_name: "何以笙箫默"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "武媚娘传奇 湖南卫视TV版",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=dfee6f12875611e4b2ad",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "武媚娘传奇 湖南卫视TV版",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000055BF3CD767BC3C43AA0E7704"
+}
+},
+ns: "video",
+id: "YK/dfee6f12875611e4b2ad",
+stat_name: "武媚娘传奇 湖南卫视TV版"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多电视剧"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "克拉恋人 TV版",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=cfe83b2aa50111e4abda",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "克拉恋人 TV版",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000054C5A76A67379F653B0C1773"
+}
+},
+ns: "video",
+id: "YK/cfe83b2aa50111e4abda",
+stat_name: "克拉恋人 TV版"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "特警力量 TV版",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=f14b1596dd9911e49e2a",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "特警力量 TV版",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005821874667BC3C1BA3011969"
+}
+},
+ns: "video",
+id: "YK/f14b1596dd9911e49e2a",
+stat_name: "特警力量 TV版"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "万万没想到 第二季",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=20eb4acaf5c211e3b2ad",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "万万没想到 第二季",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000053AD357B67379F14BA011C43"
+}
+},
+ns: "video",
+id: "YK/20eb4acaf5c211e3b2ad",
+stat_name: "万万没想到 第二季"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "虎妈猫爸",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=9f94b860cc6411e49e2a",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "虎妈猫爸",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000582193C567BC3C235805CE52"
+}
+},
+ns: "video",
+id: "YK/9f94b860cc6411e49e2a",
+stat_name: "虎妈猫爸"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "青云志 TV版",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "青云志 TV版",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E0000576B75F667BC3C136B06E4E7"
+}
+},
+ns: "video",
+id: "YK/e46186b0f71711e5a080",
+stat_name: "青云志 TV版"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2497&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000582BE3746714C066F00CA518"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "火影忍者",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=cc001f06962411de83b1",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "火影忍者",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005563E58467BC3C1E0C049028"
+}
+},
+ns: "video",
+id: "YK/cc001f06962411de83b1",
+stat_name: "火影忍者"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "名侦探柯南",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=cc003400962411de83b1",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "名侦探柯南",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000056EA6CC367BC3C49820488DB"
+}
+},
+ns: "video",
+id: "YK/cc003400962411de83b1",
+stat_name: "名侦探柯南"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "秦时明月之君临天下",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=9a8e9ba0605611e2a19e",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "秦时明月之君临天下",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000051D280816758394C8A0163A9"
+}
+},
+ns: "video",
+id: "YK/9a8e9ba0605611e2a19e",
+stat_name: "秦时明月之君临天下"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "小猪佩奇",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=60db2a18fba811e0a046",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "小猪佩奇",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E00005616079567BC3C78A20CFD41"
+}
+},
+ns: "video",
+id: "YK/60db2a18fba811e0a046",
+stat_name: "小猪佩奇"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "贝瓦儿歌",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=440609eae5f311e1a19e",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "贝瓦儿歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E0000525F416567583974A90C31A9"
+}
+},
+ns: "video",
+id: "YK/440609eae5f311e1a19e",
+stat_name: "贝瓦儿歌"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "蜡笔小新 第二部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a7c275ecd7b411e1a19e",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "蜡笔小新 第二部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000051C2703867583921C908D5EE"
+}
+},
+ns: "video",
+id: "YK/a7c275ecd7b411e1a19e",
+stat_name: "蜡笔小新 第二部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多动漫"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "熊出没之春日对对碰",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=066dd65a73b611e4b522",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "熊出没之春日对对碰",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000054758ACC67379F3FAB0EEE8D"
+}
+},
+ns: "video",
+id: "YK/066dd65a73b611e4b522",
+stat_name: "熊出没之春日对对碰"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "银魂",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=cc0026e0962411de83b1",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "银魂",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E0000551E31C667379F1C5901B455"
+}
+},
+ns: "video",
+id: "YK/cc0026e0962411de83b1",
+stat_name: "银魂"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "熊出没之冬日乐翻天",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=00612e5829fd11e5b692",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "熊出没之冬日乐翻天",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000055A4C09267BC3C06B6072B12"
+}
+},
+ns: "video",
+id: "YK/00612e5829fd11e5b692",
+stat_name: "熊出没之冬日乐翻天"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "秦时明月之万里长城",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=319ed820c26511e0a046",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "秦时明月之万里长城",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000051B70465675839793E02C199"
+}
+},
+ns: "video",
+id: "YK/319ed820c26511e0a046",
+stat_name: "秦时明月之万里长城"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "超级飞侠",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=2db4eda8e00311e3a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "超级飞侠",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000054F96A4E67379F247E0C56A1"
+}
+},
+ns: "video",
+id: "YK/2db4eda8e00311e3a705",
+stat_name: "超级飞侠"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2507&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000582BE37A6714C066F9064BAC"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+},
+{
+items: [
+{
+stat: {
+position: 0,
+type: "收藏_节目",
+name: "PS教程",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=e6e937b80d8d11e4b8b7",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "PS教程",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000053C88C1467379F1597067036"
+}
+},
+ns: "video",
+id: "YK/e6e937b80d8d11e4b8b7",
+stat_name: "PS教程"
+},
+{
+stat: {
+position: 1,
+type: "收藏_节目",
+name: "小余老师说",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=a168a5207aed11e4b522",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "小余老师说",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E0000547FEAF867379F3ECE031EDF"
+}
+},
+ns: "video",
+id: "YK/a168a5207aed11e4b522",
+stat_name: "小余老师说"
+},
+{
+stat: {
+position: 2,
+type: "收藏_节目",
+name: "TED演讲集:头脑游戏",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=dd2f02d244e611e29013",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "TED演讲集:头脑游戏",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000051B96FA06758392CF900366F"
+}
+},
+ns: "video",
+id: "YK/dd2f02d244e611e29013",
+stat_name: "TED演讲集:头脑游戏"
+},
+{
+stat: {
+position: 3,
+type: "收藏_节目",
+name: "公民说",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=36a990824f8211e4b432",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "公民说",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000054363D5967379F69260C37C1"
+}
+},
+ns: "video",
+id: "YK/36a990824f8211e4b432",
+stat_name: "公民说"
+},
+{
+stat: {
+position: 4,
+type: "收藏_节目",
+name: "CC讲坛",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=4cf8da002cfa11e4a705",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "CC讲坛",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000053FC6EA567379F1152099767"
+}
+},
+ns: "video",
+id: "YK/4cf8da002cfa11e4a705",
+stat_name: "CC讲坛"
+},
+{
+stat: {
+position: 5,
+type: "收藏_节目",
+name: "TED演讲集:知识就是力量",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=7d19086a136e11e2b52a",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "TED演讲集:知识就是力量",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000051B96B3E67583937510E2787"
+}
+},
+ns: "video",
+id: "YK/7d19086a136e11e2b52a",
+stat_name: "TED演讲集:知识就是力量"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: "收藏最多教育"
+},
+{
+items: [
+{
+stat: {
+position: 6,
+type: "收藏_节目",
+name: "泰学:易经的智慧",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=faef25866e9911e29013",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "泰学:易经的智慧",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005199D761675839261A0688E3"
+}
+},
+ns: "video",
+id: "YK/faef25866e9911e29013",
+stat_name: "泰学:易经的智慧"
+},
+{
+stat: {
+position: 7,
+type: "收藏_节目",
+name: "TED演讲集:儿童集",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=d6d898b8e5ae11e1b16f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "TED演讲集:儿童集",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000051B9710167583942B9098FEE"
+}
+},
+ns: "video",
+id: "YK/d6d898b8e5ae11e1b16f",
+stat_name: "TED演讲集:儿童集"
+},
+{
+stat: {
+position: 8,
+type: "收藏_节目",
+name: "TED演讲集:生活秘技",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=41700f1ad42a11e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "TED演讲集:生活秘技",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E0000536747E567379F057E00850C"
+}
+},
+ns: "video",
+id: "YK/41700f1ad42a11e38b3f",
+stat_name: "TED演讲集:生活秘技"
+},
+{
+stat: {
+position: 9,
+type: "收藏_节目",
+name: "TED演讲集:革新发明",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=503dc0f2136811e2b2ac",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "TED演讲集:革新发明",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E000051B96BF7675839470A0C08E2"
+}
+},
+ns: "video",
+id: "YK/503dc0f2136811e2b2ac",
+stat_name: "TED演讲集:革新发明"
+},
+{
+stat: {
+position: 10,
+type: "收藏_节目",
+name: "亲宝儿歌",
+pagenum: 1
+},
+target: {
+url: "tv/v3/show/detail?id=230cc61ec12211e38b3f",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "亲宝儿歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005358D9EC67379F507807972F"
+}
+},
+ns: "video",
+id: "YK/230cc61ec12211e38b3f",
+stat_name: "亲宝儿歌"
+},
+{
+stat: {
+position: 11,
+type: "收藏_更多",
+name: "全部",
+pagenum: 1
+},
+target: {
+url: "tv/v3/recommend/detail?topic_id=2526&header_name=&header_position=&navigation=&recommend_type=收藏",
+entity: "channel",
+schema: "yktv"
+},
+title: "全部",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000582BE3866714C067370CB4FC"
+}
+},
+ns: "",
+id: "",
+stat_name: "全部"
+}
+],
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic_same",
+columns: 6
+},
+title: ""
+}
+],
+ad: {},
+stat: {},
+meta: {
+more: "/tv/v3/recommend?list_id=22&header_name=电影&header_position=3&navigation=首页导航"
+},
+images: {
+},
+id: 446,
+src: "tv/v3/component/list?id=446&is_src=1",
+data_source: "manual",
+ver: 1479781496,
+target: {
+url: "tv/v3/component/list?id=788&tab=244",
+schema: "yktv",
+entity: "channel"
+},
+title: "我的上传",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+alias: "movie",
+is_template: false
+}
