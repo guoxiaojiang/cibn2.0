@@ -4283,9 +4283,6 @@
   ],
   "ad": {},
   "stat": {},
-  "meta": {
-    "more": "/tv/v3/recommend?list_id=22&header_name=电影&header_position=3&navigation=首页导航"
-  },
   "images": {},
   "id": 446,
   "src": "tv/v3/component/list?id=446&is_src=1",
