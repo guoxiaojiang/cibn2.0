@@ -1065,7 +1065,7 @@
   },
   "target": {
     "url": "tv/v3/recommend/detail?topic_id=2444&header_name=&header_position=&navigation=&recommend_type=收藏",
-    "entity": "channel",
+    "entity": "subscribe",
     "schema": "yktv"
   },
   "title": "全部",
@@ -2165,7 +2165,7 @@
   },
   "target": {
     "url": "tv/v3/recommend/detail?topic_id=2444&header_name=&header_position=&navigation=&recommend_type=收藏",
-    "entity": "channel",
+    "entity": "subscribe",
     "schema": "yktv"
   },
   "title": "全部",
