@@ -1055,7 +1055,38 @@
             "type": "收藏视频"
           },
           "videoid": "XNjI5MTEwNTc2"
-        }
+        },
+        {
+  "stat": {
+    "position": 11,
+    "type": "收藏_更多",
+    "name": "全部",
+    "pagenum": 1
+  },
+  "target": {
+    "url": "tv/v3/recommend/detail?topic_id=2444&header_name=&header_position=&navigation=&recommend_type=收藏",
+    "entity": "channel",
+    "schema": "yktv"
+  },
+  "title": "全部",
+  "ui_type": {
+    "name": "display_item",
+    "pos": {
+      "y": 0,
+      "x": 5,
+      "w": 1,
+      "h": 1
+    }
+  },
+  "images": {
+    "poster": {
+      "url": "http://r3.ykimg.com/05100000582BE3516714C067BA0B4FCB"
+    }
+  },
+  "ns": "",
+  "id": "",
+  "stat_name": "全部"
+}
       ],
       "stat": {
         "position": 1,
@@ -2124,7 +2155,38 @@
             "type": "收藏视频"
           },
           "videoid": "XNjI5MTEwNTc2"
-        }
+        },
+        {
+  "stat": {
+    "position": 11,
+    "type": "收藏_更多",
+    "name": "全部",
+    "pagenum": 1
+  },
+  "target": {
+    "url": "tv/v3/recommend/detail?topic_id=2444&header_name=&header_position=&navigation=&recommend_type=收藏",
+    "entity": "channel",
+    "schema": "yktv"
+  },
+  "title": "全部",
+  "ui_type": {
+    "name": "display_item",
+    "pos": {
+      "y": 0,
+      "x": 5,
+      "w": 1,
+      "h": 1
+    }
+  },
+  "images": {
+    "poster": {
+      "url": "http://r3.ykimg.com/05100000582BE3516714C067BA0B4FCB"
+    }
+  },
+  "ns": "",
+  "id": "",
+  "stat_name": "全部"
+}
       ],
       "stat": {
         "position": 1,
