@@ -24,9 +24,9 @@
             "name": "display_item"
           },
           "hint": {
-"left": "2016-2-12",
+            "left": "2016-2-12",
             "right": "999:99"
-},
+          },
           "images": {
             "poster": {
               "url": "http://r4.cp31.ott.cibntv.net/050E000053951B5367379F05B107680A"
@@ -52,6 +52,10 @@
           "ui_type": {
             "unitary": false,
             "name": "display_item"
+          },
+          "hint": {
+            "left": "2-15",
+            "right": "10:10"
           },
           "images": {
             "poster": {
@@ -79,6 +83,10 @@
             "unitary": false,
             "name": "display_item"
           },
+          "hint": {
+            "left": "2-15",
+            "right": "10:10"
+          },
           "images": {
             "poster": {
               "url": "http://r2.cp31.ott.cibntv.net/050E0000570F365767BC3C4F8E01550E"
@@ -104,6 +112,10 @@
           "ui_type": {
             "unitary": false,
             "name": "display_item"
+          },
+          "hint": {
+            "left": "2-15",
+            "right": "10:10"
           },
           "images": {
             "poster": {
