@@ -23,6 +23,10 @@
             "unitary": false,
             "name": "display_item"
           },
+          "hint": {
+"left": "2016-2-12",
+            "right": "999:99"
+},
           "images": {
             "poster": {
               "url": "http://r4.cp31.ott.cibntv.net/050E000053951B5367379F05B107680A"
