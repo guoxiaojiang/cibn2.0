@@ -24,8 +24,8 @@
             "name": "display_item"
           },
           "hint": {
-            "left": "2016-2-12",
-            "right": "999:99"
+            "left": "2016-02-18",
+            "right": "00:00:12"
           },
           "images": {
             "poster": {
@@ -166,7 +166,7 @@
         "unitary": true,
         "ratio": 1.778,
         "name": "block_grid_classic",
-        "columns": 5
+        "columns": 4
       },
       "title": ""
     },
@@ -332,7 +332,7 @@
         "unitary": true,
         "ratio": 1.778,
         "name": "block_grid_classic",
-        "columns": 5
+        "columns": 4
       },
       "title": ""
     },
@@ -498,7 +498,7 @@
         "unitary": true,
         "ratio": 1.778,
         "name": "block_grid_classic",
-        "columns": 5
+        "columns": 4
       },
       "title": ""
     },
@@ -664,7 +664,7 @@
         "unitary": true,
         "ratio": 1.778,
         "name": "block_grid_classic",
-        "columns": 5
+        "columns": 4
       },
       "title": ""
     },
@@ -830,7 +830,7 @@
         "unitary": true,
         "ratio": 1.778,
         "name": "block_grid_classic",
-        "columns": 5
+        "columns": 4
       },
       "title": ""
     }
