@@ -233,6 +233,37 @@
           "ns": "video",
           "id": "YK/015285e270ab11e5b432",
           "stat_name": "我是谁"
+        },
+        {
+          "stat": {
+            "position": 6,
+            "type": "收藏_节目",
+            "name": "日食记 第一季",
+            "pagenum": 1
+          },
+          "target": {
+            "url": "tv/v3/show/detail?id=1705e55288a211e38b3f",
+            "entity": "detail:show",
+            "schema": "yktv"
+          },
+          "title": "日食记 第一季",
+          "ui_type": {
+            "unitary": false,
+            "name": "display_item"
+          },
+          "hint": {
+            "left": "2016-02-18",
+            "right": "00:00:12"
+          },
+          "images": {
+            "poster": {
+              "url": "http://r1.ykimg.com/0552040857BE6A656A0A4E044E53971C",
+              "md5": "1b0577e92831bf058ab646d93b782081"
+            }
+          },
+          "ns": "video",
+          "id": "YK/1705e55288a211e38b3f",
+          "stat_name": "日食记 第一季"
         }
       ],
       "ui_type": {
