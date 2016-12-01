@@ -129,42 +129,11 @@
           "ns": "video",
           "id": "YK/887e125c60da11e4a080",
           "stat_name": "第三极"
-        },
-        {
-          "stat": {
-            "position": 10,
-            "type": "收藏_节目",
-            "name": "VICE人物精选",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "VICE人物精选",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "3-22",
-            "right": "99:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
-              "md5": "598863ab0909c575d34bdc0159b4a084"
-            }
-          },
-          "ns": "video",
-          "id": "YK/1c5c796a5dd211e5a080",
-          "stat_name": "VICE人物精选"
         }
       ],
       "ui_type": {
         "unitary": true,
-        "ratio": 1.778,
+        "ratio": 1.78,
         "name": "block_grid_classic",
         "columns": 4
       },
@@ -264,73 +233,11 @@
           "ns": "video",
           "id": "YK/015285e270ab11e5b432",
           "stat_name": "我是谁"
-        },
-        {
-          "stat": {
-            "position": 8,
-            "type": "收藏_节目",
-            "name": "空腹",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=be7e865efe9e11e4b5ce",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "空腹",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "2-15",
-            "right": "10:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/05520408578CD9D76A0A4A051E173317",
-              "md5": "d4b28eebb99893c1560e948f21d00ed6"
-            }
-          },
-          "ns": "video",
-          "id": "YK/be7e865efe9e11e4b5ce",
-          "stat_name": "空腹"
-        },
-        {
-          "stat": {
-            "position": 10,
-            "type": "收藏_节目",
-            "name": "VICE人物精选",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "VICE人物精选",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "3-22",
-            "right": "99:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
-              "md5": "598863ab0909c575d34bdc0159b4a084"
-            }
-          },
-          "ns": "video",
-          "id": "YK/1c5c796a5dd211e5a080",
-          "stat_name": "VICE人物精选"
         }
       ],
       "ui_type": {
         "unitary": true,
-        "ratio": 1.778,
+        "ratio": 1.78,
         "name": "block_grid_classic",
         "columns": 4
       },
@@ -461,42 +368,11 @@
           "ns": "video",
           "id": "YK/887e125c60da11e4a080",
           "stat_name": "第三极"
-        },
-        {
-          "stat": {
-            "position": 10,
-            "type": "收藏_节目",
-            "name": "VICE人物精选",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "VICE人物精选",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "3-22",
-            "right": "99:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
-              "md5": "598863ab0909c575d34bdc0159b4a084"
-            }
-          },
-          "ns": "video",
-          "id": "YK/1c5c796a5dd211e5a080",
-          "stat_name": "VICE人物精选"
         }
       ],
       "ui_type": {
         "unitary": true,
-        "ratio": 1.778,
+        "ratio": 1.78,
         "name": "block_grid_classic",
         "columns": 4
       },
@@ -627,42 +503,11 @@
           "ns": "video",
           "id": "YK/be7e865efe9e11e4b5ce",
           "stat_name": "空腹"
-        },
-        {
-          "stat": {
-            "position": 10,
-            "type": "收藏_节目",
-            "name": "VICE人物精选",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "VICE人物精选",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "3-22",
-            "right": "99:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
-              "md5": "598863ab0909c575d34bdc0159b4a084"
-            }
-          },
-          "ns": "video",
-          "id": "YK/1c5c796a5dd211e5a080",
-          "stat_name": "VICE人物精选"
         }
       ],
       "ui_type": {
         "unitary": true,
-        "ratio": 1.778,
+        "ratio": 1.78,
         "name": "block_grid_classic",
         "columns": 4
       },
@@ -793,42 +638,11 @@
           "ns": "video",
           "id": "YK/be7e865efe9e11e4b5ce",
           "stat_name": "空腹"
-        },
-        {
-          "stat": {
-            "position": 10,
-            "type": "收藏_节目",
-            "name": "VICE人物精选",
-            "pagenum": 1
-          },
-          "target": {
-            "url": "tv/v3/show/detail?id=1c5c796a5dd211e5a080",
-            "entity": "detail:show",
-            "schema": "yktv"
-          },
-          "title": "VICE人物精选",
-          "ui_type": {
-            "unitary": false,
-            "name": "display_item"
-          },
-          "hint": {
-            "left": "3-22",
-            "right": "99:10"
-          },
-          "images": {
-            "poster": {
-              "url": "http://r2.ykimg.com/0552040856C2E5316A0A41045D82260C",
-              "md5": "598863ab0909c575d34bdc0159b4a084"
-            }
-          },
-          "ns": "video",
-          "id": "YK/1c5c796a5dd211e5a080",
-          "stat_name": "VICE人物精选"
         }
       ],
       "ui_type": {
         "unitary": true,
-        "ratio": 1.778,
+        "ratio": 1.78,
         "name": "block_grid_classic",
         "columns": 4
       },
