@@ -1,9 +1,9 @@
 {
   "status": "success", 
-  "code": 2, 
+  "code": 1, 
   "update":{
   	"vercode":2017022681,
-  	"type":1,
+  	"type":2,
     "download":"http://sfapp01.oss-cn-hangzhou.aliyuncs.com/apk/com.cibn.tv.825499398059125ad7fbd41f1665353e.apk", 
     "md5":"825499398059125ad7fbd41f1665353e",
     "desc":"bug fix...\n测试跳转CIBN\n性能优化\n测试测试"
