@@ -1,0 +1,9 @@
+{
+  "status": "success", 
+  "code": 1, 
+  "update":{
+  	"vercode":2017022681,
+  	type:3,
+    "desc":"bug fix...\n性能模式图片使用565\nandroid4.2以下性能模式\n性能模式动画裁剪"
+  }
+}
