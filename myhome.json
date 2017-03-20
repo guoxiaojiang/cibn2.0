@@ -501,7 +501,7 @@
               },
               "ver": 1489456032,
               "stat_name": "专题:剧热点-霸气女友猛追男",
-              "title": "",
+              "sub_title": "专题:剧热点-霸气女友猛追男",
               "ui_type": {
                 "name": "display_item"
               },
@@ -539,7 +539,7 @@
               "ver": 1488561423,
               "stat_name": "专题:剧热点-奔跑吧阿甘",
               "title": "",
-              "sub_title": "",
+              "sub_title": "专题:剧热点-奔跑吧阿甘",
               "ui_type": {
                 "name": "display_item"
               },
@@ -575,6 +575,7 @@
               "ver": 1489735730,
               "stat_name": "专题:剧热点-一个军人的使命",
               "title": "",
+              "sub_title": "专题:剧热点-一个军人的使命",
               "ui_type": {
                 "name": "display_item"
               },
