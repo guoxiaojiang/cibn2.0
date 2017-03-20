@@ -489,216 +489,18 @@
           "title": "跟播大剧",
           "items": [
             {
-              "ui_type": {
-                "name": "display_item"
-              },
-              "ver": 1489658531,
-              "stat_name": "三生三世十里桃花",
-              "hint": {
-                "left": "58集全"
-              },
-              "title": "三生三世十里桃花",
-              "sub_title": "杨幂又廷仙缘虐恋",
               "stat": {
-                "header_position": "1",
+                "header_position": "2",
                 "pagenum": 1,
-                "name": "三生三世十里桃花",
-                "from": "0:首页导航_1:精选_2:跟播大剧_0:三生三世十里桃花",
-                "type": "节目详情页",
+                "name": "专题:剧热点-霸气女友猛追男",
+                "from": "0:首页导航_2:电视剧_7:_0:",
+                "type": "海报专题",
                 "position": 0,
                 "navigation": "首页导航",
-                "header_name": "精选"
+                "header_name": "电视剧"
               },
-              "filter": "",
-              "is_template": false,
-              "images": {
-                "poster": {
-                  "url": "http://r3.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845",
-                  "md5": "c9b73d7af9f1d94c1865d3a3ed4fc5c7"
-                }
-              },
-              "ad": {
-                "enable": false
-              },
-              "id": 7321,
-              "target": {
-                "url": "tv/v3/show/detail?id=387477fb41a011e69c81",
-                "entity": "detail:show",
-                "params": {
-                  "android_intent": ""
-                },
-                "schema": "yktv"
-              }
-            },
-            {
-              "ui_type": {
-                "name": "display_item"
-              },
-              "ver": 1489377668,
-              "stat_name": "星光灿烂",
-              "hint": {
-                "left": "40集全"
-              },
-              "title": "星光灿烂",
-              "sub_title": "范伟变中国版阿甘",
-              "stat": {
-                "header_position": "1",
-                "pagenum": 1,
-                "name": "星光灿烂",
-                "from": "0:跟播大剧_1:星光灿烂",
-                "type": "节目详情页",
-                "position": 1,
-                "navigation": "跟播大剧",
-                "header_name": "星光灿烂"
-              },
-              "filter": "",
-              "is_template": false,
-              "images": {
-                "poster": {
-                  "url": "http://r2.cp31.ott.cibntv.net/0510000058C61982ADC0B005B90DED87",
-                  "md5": "174e1bcc71922c1523a48c10938c39da"
-                }
-              },
-              "ad": {
-                "enable": false
-              },
-              "id": 7733,
-              "target": {
-                "url": "tv/v3/show/detail?id=6b1814f7ecdd11e6b16e",
-                "entity": "detail:show",
-                "schema": "yktv"
-              }
-            },
-            {
-              "ui_type": {
-                "name": "display_item"
-              },
-              "ver": 1489639367,
-              "stat_name": "热血尖兵",
-              "hint": {
-                "left": "至11集"
-              },
-              "title": "热血尖兵",
-              "sub_title": "90后特种兵传奇",
-              "stat": {
-                "header_position": "1",
-                "pagenum": 1,
-                "name": "热血尖兵",
-                "from": "0:首页导航_1:精选_2:跟播大剧_2:热血尖兵",
-                "type": "节目详情页",
-                "position": 2,
-                "navigation": "首页导航",
-                "header_name": "精选"
-              },
-              "filter": "",
-              "is_template": false,
-              "images": {
-                "poster": {
-                  "url": "http://r3.cp31.ott.cibntv.net/050E000058BE4930ADBDD3BC980C89BE",
-                  "md5": "f1661875a4caef51c5e380eb4fba8d9e"
-                }
-              },
-              "ad": {
-                "enable": false
-              },
-              "id": 7760,
-              "target": {
-                "url": "tv/v3/show/detail?id=57efbfbdefbfbd7102ef",
-                "entity": "detail:show",
-                "schema": "yktv"
-              }
-            },
-            {
-              "ui_type": {
-                "name": "display_item"
-              },
-              "ver": 1489713753,
-              "stat_name": "咱家",
-              "hint": {
-                "left": "至26集"
-              },
-              "title": "咱家",
-              "sub_title": "小鲜肉恋失婚大姐",
-              "stat": {
-                "header_position": "1",
-                "pagenum": 1,
-                "name": "咱家",
-                "from": "0:首页导航_1:精选_2:跟播大剧_3:咱家",
-                "type": "节目详情页",
-                "position": 3,
-                "navigation": "首页导航",
-                "header_name": "精选"
-              },
-              "filter": "",
-              "is_template": false,
-              "images": {
-                "poster": {
-                  "url": "http://r3.cp31.ott.cibntv.net/050E000058A42413ADBA1F60C3089A2B",
-                  "md5": "617a6d6a74dca07a3ccad6b279f9700f"
-                }
-              },
-              "ad": {
-                "enable": false
-              },
-              "id": 7788,
-              "target": {
-                "url": "tv/v3/show/detail?id=3e375defbfbdefbfbd11",
-                "entity": "detail:show",
-                "schema": "yktv"
-              }
-            },
-            {
-              "ui_type": {
-                "name": "display_item"
-              },
-              "ver": 1489690942,
-              "stat_name": "热血长安 第一季",
-              "hint": {
-                "left": "至20集"
-              },
-              "title": "热血长安 第一季",
-              "sub_title": "唐朝版福尔摩斯",
-              "stat": {
-                "header_position": "1",
-                "pagenum": 1,
-                "name": "热血长安 第一季",
-                "from": "0:首页导航_1:精选_2:跟播大剧_4:热血长安 第一季",
-                "type": "节目详情页",
-                "position": 4,
-                "navigation": "首页导航",
-                "header_name": "精选"
-              },
-              "filter": "",
-              "is_template": false,
-              "images": {
-                "poster": {
-                  "url": "http://r2.cp31.ott.cibntv.net/050E000058B3947CADBA1F60040E1BC1",
-                  "md5": "f1fcfb9e8380057309837ee71a961d47"
-                }
-              },
-              "ad": {
-                "enable": false
-              },
-              "id": 7795,
-              "target": {
-                "url": "tv/v3/show/detail?id=0b562aa88e9111e6b16e",
-                "entity": "detail:show",
-                "schema": "yktv"
-              }
-            },
-            {
-              "stat": {
-                "header_position": "1",
-                "pagenum": 1,
-                "name": "频道:热播精选",
-                "from": "0:首页导航_1:精选_3:跟播大剧_5:",
-                "type": "频道",
-                "position": 5,
-                "navigation": "首页导航",
-                "header_name": "精选"
-              },
-              "ver": 1488510016,
-              "stat_name": "频道:热播精选",
+              "ver": 1489456032,
+              "stat_name": "专题:剧热点-霸气女友猛追男",
               "title": "",
               "ui_type": {
                 "name": "display_item"
@@ -707,17 +509,194 @@
               "is_template": false,
               "images": {
                 "poster": {
-                  "url": "http://r3.cp31.ott.cibntv.net/0510000058B8DC3DADC0B0059506DECF",
-                  "md5": "675f8fbf6f0d04fabe62992cec0b4500"
+                  "url": "http://r4.cp31.ott.cibntv.net/0510000058C74922ADC0B005B90B4F14",
+                  "md5": "60ea7d104cb926faba4c607cdec08c0f"
                 }
               },
               "ad": {
                 "enable": false
               },
-              "id": 7210,
+              "id": 7764,
               "target": {
-                "url": "tv/v3/component/list?id=800&tab=1473",
-                "entity": "channel",
+                "url": "tv/v3/subject/detail?id=717",
+                "entity": "subject:poster",
+                "params": {
+                  "android_intent": ""
+                },
+                "schema": "yktv"
+              }
+            },
+            {
+              "stat": {
+                "from": "0:_1:",
+                "header_position": "1",
+                "pagenum": 1,
+                "name": "专题:剧热点-奔跑吧阿甘",
+                "position": 1,
+                "type": "海报专题",
+                "navigation": "0"
+              },
+              "ver": 1488561423,
+              "stat_name": "专题:剧热点-奔跑吧阿甘",
+              "title": "",
+              "sub_title": "",
+              "ui_type": {
+                "name": "display_item"
+              },
+              "filter": "",
+              "is_template": false,
+              "images": {
+                "poster": {
+                  "url": "http://r1.cp31.ott.cibntv.net/0510000058B9A27FADB912059A0B7BBB",
+                  "md5": "8bc246b2ead6261f494e85f103f98542"
+                }
+              },
+              "ad": {
+                "enable": false
+              },
+              "id": 7308,
+              "target": {
+                "url": "tv/v3/subject/detail?id=710",
+                "entity": "subject:poster",
+                "schema": "yktv"
+              }
+            },
+            {
+              "stat": {
+                "header_position": "2",
+                "pagenum": 1,
+                "name": "专题:剧热点-一个军人的使命",
+                "from": "0:首页导航_2:电视剧_7:_2:",
+                "type": "海报专题",
+                "position": 2,
+                "navigation": "首页导航",
+                "header_name": "电视剧"
+              },
+              "ver": 1489735730,
+              "stat_name": "专题:剧热点-一个军人的使命",
+              "title": "",
+              "ui_type": {
+                "name": "display_item"
+              },
+              "filter": "",
+              "is_template": false,
+              "images": {
+                "poster": {
+                  "url": "http://r2.cp31.ott.cibntv.net/0510000058CB8E68ADC0B0057A03141B",
+                  "md5": "a73aa4612cef61e398f8b08e8a5f5176"
+                }
+              },
+              "ad": {
+                "enable": false
+              },
+              "id": 7863,
+              "target": {
+                "url": "tv/v3/subject/detail?id=721",
+                "entity": "subject:poster",
+                "schema": "yktv"
+              }
+            },
+            {
+              "stat": {
+                "header_position": "2",
+                "pagenum": 1,
+                "name": "专题:剧热点-遮风挡雨我爱我家",
+                "from": "0:首页导航_2:电视剧_6:独家策划_0:",
+                "type": "海报专题",
+                "position": 0,
+                "navigation": "首页导航",
+                "header_name": "电视剧"
+              },
+              "ver": 1489156957,
+              "stat_name": "专题:剧热点-遮风挡雨我爱我家",
+              "title": "",
+              "ui_type": {
+                "name": "display_item"
+              },
+              "filter": "",
+              "is_template": false,
+              "images": {
+                "poster": {
+                  "url": "http://r3.cp31.ott.cibntv.net/0510000058C2B931ADC0AE05CA04952F",
+                  "md5": "97c7207641b0ae72be0a939019ba8482"
+                }
+              },
+              "ad": {
+                "enable": false
+              },
+              "id": 7681,
+              "target": {
+                "url": "tv/v3/subject/detail?id=715",
+                "entity": "subject:poster",
+                "schema": "yktv"
+              }
+            },
+            {
+              "stat": {
+                "header_position": "2",
+                "pagenum": 1,
+                "name": "专题:剧热点-难忘的知青岁月",
+                "from": "0:首页导航_2:电视剧_6:独家策划_1:",
+                "type": "海报专题",
+                "position": 1,
+                "navigation": "首页导航",
+                "header_name": "电视剧"
+              },
+              "ver": 1489156948,
+              "stat_name": "专题:剧热点-难忘的知青岁月",
+              "title": "",
+              "ui_type": {
+                "name": "display_item"
+              },
+              "filter": "",
+              "is_template": false,
+              "images": {
+                "poster": {
+                  "url": "http://r4.cp31.ott.cibntv.net/0510000058C2B75EADC0AE05CC0E2912",
+                  "md5": "7000b3c1839743d94bd176557a8e6c5e"
+                }
+              },
+              "ad": {
+                "enable": false
+              },
+              "id": 7680,
+              "target": {
+                "url": "tv/v3/subject/detail?id=714",
+                "entity": "subject:poster",
+                "schema": "yktv"
+              }
+            },
+            {
+              "stat": {
+                "from": "0:独家策划_2:",
+                "header_position": "2",
+                "pagenum": 1,
+                "name": "专题:追大剧-热播电视剧排行榜",
+                "position": 2,
+                "type": "海报专题",
+                "navigation": "独家策划"
+              },
+              "ver": 1479434130,
+              "stat_name": "专题:追大剧-热播电视剧排行榜",
+              "title": "",
+              "ui_type": {
+                "name": "display_item"
+              },
+              "filter": "",
+              "is_template": false,
+              "images": {
+                "poster": {
+                  "url": "http://r2.cp31.ott.cibntv.net/05100000582E5F916714C014530A6E84",
+                  "md5": "3f0f6780211eb95d3d37276217eaa316"
+                }
+              },
+              "ad": {
+                "enable": false
+              },
+              "id": 739,
+              "target": {
+                "url": "tv/v3/subject/detail?id=533",
+                "entity": "subject:poster",
                 "schema": "yktv"
               }
             }
