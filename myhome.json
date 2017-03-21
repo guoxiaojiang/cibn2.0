@@ -705,7 +705,7 @@
           "ui_type": {
             "unitary": true,
             "ratio": 0.6657,
-            "name": "block_grid_coverflow_h",
+            "name": "block_grid_coverflow_new_h",
             "columns": 6
           },
           "filter": "",
