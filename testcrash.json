@@ -1,0 +1,4507 @@
+{
+status: 0,
+ui_type: {
+name: "left_nav"
+},
+ver: 1490326984,
+ad: {
+enable: false
+},
+title: "首页导航",
+sub_title: "",
+stat: {
+type: "频道",
+pagenum: 1,
+name: "首页导航",
+from: "0:首页导航",
+position: 0,
+navigation: "首页导航"
+},
+filter: "",
+block_index: 3,
+is_template: false,
+alias: "home",
+blocks: [
+{
+src: "tv/v3/component/list?id=3506&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "filter",
+ver: 1490326393,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "123",
+stat: {
+pagenum: 1,
+name: "123",
+from: "0:首页导航_0:123",
+navigation: "首页导航",
+type: "频道",
+position: 0,
+header_position: "0",
+header_name: "123"
+},
+filter: "showcategory:动漫|anime_genre:亲子|ob:4|anime_agegroup:7到10岁",
+is_template: false,
+blocks: [
+{
+ui_type: {
+unitary: true,
+ratio: 0.6657,
+name: "block_grid_coverflow_h",
+columns: 8
+},
+ver: 1490326393,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "老版coverflow_正浩",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490183613,
+stat_name: "驴得水",
+title: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+pagenum: 1,
+name: "驴得水",
+from: "0:首页导航_20:123_0:_0:驴得水",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005822D54567BC3C26670B31EB"
+}
+},
+id: 3958,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490183613,
+stat_name: "驴得水",
+title: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+pagenum: 1,
+name: "驴得水",
+from: "0:首页导航_20:123_0:_0:驴得水",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005822D54567BC3C26670B31EB"
+}
+},
+id: 3958,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490193188,
+stat_name: "湄公河行动",
+title: "湄公河行动",
+hint: {
+right: "9.1"
+},
+stat: {
+pagenum: 1,
+name: "湄公河行动",
+from: "0:首页导航_20:123_0:_2:湄公河行动",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=f30366003b7011e69b6d",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000057E4C4BE67BC3C71290A2542"
+}
+},
+id: 3959,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490193188,
+stat_name: "湄公河行动",
+title: "湄公河行动",
+hint: {
+right: "9.1"
+},
+stat: {
+pagenum: 1,
+name: "湄公河行动",
+from: "0:首页导航_20:123_0:_2:湄公河行动",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=f30366003b7011e69b6d",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E000057E4C4BE67BC3C71290A2542"
+}
+},
+id: 3959,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490192557,
+stat_name: "反贪风暴2",
+title: "反贪风暴2",
+hint: {
+right: "8.2"
+},
+stat: {
+pagenum: 1,
+name: "反贪风暴2",
+from: "0:首页导航_20:123_0:_4:反贪风暴2",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=6f9e63deffb911e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058100FE267BC3C44D606B021"
+}
+},
+id: 3969,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490192557,
+stat_name: "反贪风暴2",
+title: "反贪风暴2",
+hint: {
+right: "8.2"
+},
+stat: {
+pagenum: 1,
+name: "反贪风暴2",
+from: "0:首页导航_20:123_0:_4:反贪风暴2",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=6f9e63deffb911e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058100FE267BC3C44D606B021"
+}
+},
+id: 3969,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490185268,
+stat_name: "绝地逃亡",
+title: "绝地逃亡",
+hint: {
+right: "8.8"
+},
+stat: {
+pagenum: 1,
+name: "绝地逃亡",
+from: "0:首页导航_20:123_0:_6:绝地逃亡",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057D0CA1F67BC3C035C025D22"
+}
+},
+id: 3971,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490185268,
+stat_name: "绝地逃亡",
+title: "绝地逃亡",
+hint: {
+right: "8.8"
+},
+stat: {
+pagenum: 1,
+name: "绝地逃亡",
+from: "0:首页导航_20:123_0:_6:绝地逃亡",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057D0CA1F67BC3C035C025D22"
+}
+},
+id: 3971,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488436865,
+stat_name: "节目详情页",
+stat: {
+pagenum: 1,
+name: "节目详情页",
+from: "0:首页导航_20:123_0:_8:",
+navigation: "首页导航",
+type: "节目详情页",
+position: 8,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+id: 3972,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488436865,
+stat_name: "节目详情页",
+stat: {
+pagenum: 1,
+name: "节目详情页",
+from: "0:首页导航_20:123_0:_8:",
+navigation: "首页导航",
+type: "节目详情页",
+position: 8,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+id: 3972,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490180543,
+stat_name: "澳门风云3",
+title: "澳门风云3",
+hint: {
+right: "7.7"
+},
+stat: {
+pagenum: 1,
+name: "澳门风云3",
+from: "0:首页导航_20:123_0:_10:澳门风云3",
+navigation: "首页导航",
+type: "节目详情页",
+position: 10,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=a25fd19459e811e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000569DE91F67BC3C19790DEFE1"
+}
+},
+id: 3973,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490180543,
+stat_name: "澳门风云3",
+title: "澳门风云3",
+hint: {
+right: "7.7"
+},
+stat: {
+pagenum: 1,
+name: "澳门风云3",
+from: "0:首页导航_20:123_0:_10:澳门风云3",
+navigation: "首页导航",
+type: "节目详情页",
+position: 10,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=a25fd19459e811e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000569DE91F67BC3C19790DEFE1"
+}
+},
+id: 3973,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489990427,
+stat_name: "三生三世十里桃花",
+title: "三生三世十里桃花",
+hint: {
+left: "58集全"
+},
+stat: {
+pagenum: 1,
+name: "三生三世十里桃花",
+from: "0:首页导航_20:123_0:_12:三生三世十里桃花",
+navigation: "首页导航",
+type: "节目详情页",
+position: 12,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845"
+}
+},
+id: 3979,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489990427,
+stat_name: "三生三世十里桃花",
+title: "三生三世十里桃花",
+hint: {
+left: "58集全"
+},
+stat: {
+pagenum: 1,
+name: "三生三世十里桃花",
+from: "0:首页导航_20:123_0:_12:三生三世十里桃花",
+navigation: "首页导航",
+type: "节目详情页",
+position: 12,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845"
+}
+},
+id: 3979,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490262006,
+stat_name: "双喜盈门",
+title: "双喜盈门",
+hint: {
+left: "43集全"
+},
+stat: {
+pagenum: 1,
+name: "双喜盈门",
+from: "0:首页导航_20:123_0:_14:双喜盈门",
+navigation: "首页导航",
+type: "节目详情页",
+position: 14,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=70e6896ed7e511e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005877588F67BC3C740806E5A5"
+}
+},
+id: 3980,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490262006,
+stat_name: "双喜盈门",
+title: "双喜盈门",
+hint: {
+left: "43集全"
+},
+stat: {
+pagenum: 1,
+name: "双喜盈门",
+from: "0:首页导航_20:123_0:_14:双喜盈门",
+navigation: "首页导航",
+type: "节目详情页",
+position: 14,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=70e6896ed7e511e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005877588F67BC3C740806E5A5"
+}
+},
+id: 3980,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+pagenum: 1,
+name: "老版coverflow_正浩",
+from: "0:首页导航_0:123_0:老版coverflow_正浩",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+header_position: "0",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+id: 3955,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "block_grid"
+},
+ver: 1489493094,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+items: [ ],
+stat: {
+pagenum: 1,
+name: "节目详情页",
+from: "0:首页导航_20:123_1:",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+header_position: "20",
+header_name: "123"
+},
+filter: "",
+is_template: false,
+id: 4060,
+ad: {
+enable: false
+}
+}
+],
+id: 3506,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=118&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490326984,
+target: {
+url: "tv/v3/search",
+schema: "yktv",
+entity: "search"
+},
+title: "搜索",
+sub_title: "",
+stat: {
+from: "0:首页导航_1:搜索",
+pagenum: 1,
+name: "搜索",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "搜索",
+position: 1,
+spmb: "8271851",
+header_position: "1",
+header_name: "搜索"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005816BA286714C0483F0DE271",
+md5: "747c9270806ab77ee807b712cb81c0e3"
+},
+normal_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005816BA196714C0479D0F121E",
+md5: "604a6f2692e2ea0276b3ba3d76241ca1"
+}
+},
+blocks: [ ],
+id: 118,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=159&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1489480820,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "分类",
+sub_title: "",
+stat: {
+from: "0:首页导航_1:分类",
+pagenum: 1,
+name: "分类",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 1,
+spmb: "8271972",
+header_position: "1",
+header_name: "分类"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005801CBA56714C076ED062773",
+md5: "d7492e7f14e6cbdb0a108628382c41ca"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB9E6714C076DC06225E",
+md5: "e2ae714a4adacba99d5771e9d0d57b78"
+}
+},
+blocks: [ ],
+id: 159,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=493&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490326984,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "精选",
+stat: {
+from: "0:首页导航_3:精选",
+pagenum: 1,
+name: "精选",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 3,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+meta: {
+more: "/tv/v3/recommend?list_id=23&header_name=%E7%B2%BE%E9%80%89&header_position=3&navigation=%E9%A6%96%E9%A1%B5%E5%AF%BC%E8%88%AA"
+},
+images: {
+focused_icon: {
+url: "http://r2.cp31.ott.cibntv.net/05100000580042086714C06D8E065F7D",
+md5: "d014e4bcf1e22c1de086b07cc6380810"
+},
+normal_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005801DC036714C0764008C7ED",
+md5: "d1e32743d1904d522cc8d46f5d1e06bb"
+},
+background: {
+url: "http://r1.cp31.ott.cibntv.net/05100000586230C56714C07EFF04D42A",
+md5: "96faa876f529d876c0178f1acd222942"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_coverflow_new_h",
+columns: 5
+},
+ver: 1490326724,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "coverflow2 新版",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490324265,
+stat_name: "节目详情页",
+stat: {
+from: "0:首页导航_2:精选_0:coverflow2 新版_0:",
+pagenum: 1,
+name: "节目详情页",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/0510000058D48B1FA4352584A70840E8",
+md5: "4b990be46d18c59879357bdf76c94263"
+}
+},
+id: 4148,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490326420,
+stat_name: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_0:coverflow2 新版_1:",
+pagenum: 1,
+name: "驴得水",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+id: 4152,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490326425,
+stat_name: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_0:coverflow2 新版_2:",
+pagenum: 1,
+name: "驴得水",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+id: 4153,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490326440,
+stat_name: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_0:coverflow2 新版_3:",
+pagenum: 1,
+name: "驴得水",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 3,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+id: 4155,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490326464,
+stat_name: "驴得水",
+title: "5",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_0:coverflow2 新版_4:5",
+pagenum: 1,
+name: "5",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+id: 4156,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_3:精选_0:coverflow2 新版",
+pagenum: 1,
+name: "coverflow2 新版",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 4146,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.6657,
+name: "block_grid_coverflow_h",
+columns: 8
+},
+ver: 1490326393,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "老版coverflow_正浩",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490183613,
+stat_name: "驴得水",
+title: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_0:驴得水",
+pagenum: 1,
+name: "驴得水",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005822D54567BC3C26670B31EB"
+}
+},
+id: 3958,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490183613,
+stat_name: "驴得水",
+title: "驴得水",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_0:驴得水",
+pagenum: 1,
+name: "驴得水",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=92d6ad9a806711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E00005822D54567BC3C26670B31EB"
+}
+},
+id: 3958,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490193188,
+stat_name: "湄公河行动",
+title: "湄公河行动",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_2:湄公河行动",
+pagenum: 1,
+name: "湄公河行动",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=f30366003b7011e69b6d",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057E4C4BE67BC3C71290A2542"
+}
+},
+id: 3959,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490193188,
+stat_name: "湄公河行动",
+title: "湄公河行动",
+hint: {
+right: "9.1"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_2:湄公河行动",
+pagenum: 1,
+name: "湄公河行动",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=f30366003b7011e69b6d",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057E4C4BE67BC3C71290A2542"
+}
+},
+id: 3959,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490192557,
+stat_name: "反贪风暴2",
+title: "反贪风暴2",
+hint: {
+right: "8.2"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_4:反贪风暴2",
+pagenum: 1,
+name: "反贪风暴2",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=6f9e63deffb911e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058100FE267BC3C44D606B021"
+}
+},
+id: 3969,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490192557,
+stat_name: "反贪风暴2",
+title: "反贪风暴2",
+hint: {
+right: "8.2"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_4:反贪风暴2",
+pagenum: 1,
+name: "反贪风暴2",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=6f9e63deffb911e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058100FE267BC3C44D606B021"
+}
+},
+id: 3969,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490185268,
+stat_name: "绝地逃亡",
+title: "绝地逃亡",
+hint: {
+right: "8.8"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_6:绝地逃亡",
+pagenum: 1,
+name: "绝地逃亡",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057D0CA1F67BC3C035C025D22"
+}
+},
+id: 3971,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490185268,
+stat_name: "绝地逃亡",
+title: "绝地逃亡",
+hint: {
+right: "8.8"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_6:绝地逃亡",
+pagenum: 1,
+name: "绝地逃亡",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000057D0CA1F67BC3C035C025D22"
+}
+},
+id: 3971,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488436865,
+stat_name: "节目详情页",
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_8:",
+pagenum: 1,
+name: "节目详情页",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 8,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+id: 3972,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488436865,
+stat_name: "节目详情页",
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_8:",
+pagenum: 1,
+name: "节目详情页",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 8,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+id: 3972,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490180543,
+stat_name: "澳门风云3",
+title: "澳门风云3",
+hint: {
+right: "7.7"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_10:澳门风云3",
+pagenum: 1,
+name: "澳门风云3",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 10,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=a25fd19459e811e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000569DE91F67BC3C19790DEFE1"
+}
+},
+id: 3973,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490180543,
+stat_name: "澳门风云3",
+title: "澳门风云3",
+hint: {
+right: "7.7"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_10:澳门风云3",
+pagenum: 1,
+name: "澳门风云3",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 10,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=a25fd19459e811e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000569DE91F67BC3C19790DEFE1"
+}
+},
+id: 3973,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489990427,
+stat_name: "三生三世十里桃花",
+title: "三生三世十里桃花",
+hint: {
+left: "58集全"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_12:三生三世十里桃花",
+pagenum: 1,
+name: "三生三世十里桃花",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 12,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845"
+}
+},
+id: 3979,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489990427,
+stat_name: "三生三世十里桃花",
+title: "三生三世十里桃花",
+hint: {
+left: "58集全"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_12:三生三世十里桃花",
+pagenum: 1,
+name: "三生三世十里桃花",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 12,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845"
+}
+},
+id: 3979,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490262006,
+stat_name: "双喜盈门",
+title: "双喜盈门",
+hint: {
+left: "43集全"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_14:双喜盈门",
+pagenum: 1,
+name: "双喜盈门",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 14,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=70e6896ed7e511e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005877588F67BC3C740806E5A5"
+}
+},
+id: 3980,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490262006,
+stat_name: "双喜盈门",
+title: "双喜盈门",
+hint: {
+left: "43集全"
+},
+stat: {
+from: "0:首页导航_3:精选_3:老版coverflow_14:双喜盈门",
+pagenum: 1,
+name: "双喜盈门",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 14,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=70e6896ed7e511e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/050E00005877588F67BC3C740806E5A5"
+}
+},
+id: 3980,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_3:精选_1:老版coverflow_正浩",
+pagenum: 1,
+name: "老版coverflow_正浩",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 3955,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.6657,
+name: "block_grid_user",
+columns: 6
+},
+ver: 1490247836,
+target: {
+schema: "yktv",
+entity: "usercenter"
+},
+items: [
+{
+ui_type: {
+name: "display_item_home_history_v",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1490182965,
+stat_name: "偶像就该酱婶 第一季",
+title: "",
+hint: {
+left: "13期全"
+},
+stat: {
+from: "0:首页导航_2:精选_2:_0:",
+pagenum: 1,
+name: "偶像就该酱婶 第一季",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=957386fa2c8e11e6a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/053C000057CFB99167BC3C0A4F06D41D"
+},
+left_top_corner: {
+url: "http://r3.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+right_bottom_corner: {
+url: "http://r3.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+right_top_corner: {
+url: "http://r4.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+left_bottom_corner: {
+url: "http://r1.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+}
+},
+id: 1510,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1482479139,
+stat_name: "个人中心:收藏",
+stat: {
+from: "0:首页导航_2:精选_2:_1:",
+pagenum: 1,
+name: "个人中心:收藏",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "个人中心:收藏",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/user/info",
+schema: "yktv",
+params: {
+vipdialog: false
+},
+entity: "usercenter:fav"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/05100000581991146714C0192C08A700",
+md5: "15e78cfbf1600c7ab2c235e4179da10c"
+},
+vip: {
+url: "http://r2.cp31.ott.cibntv.net/05100000583D16EE6714C05ED80E00F3",
+md5: "01f1bebc56c232021a616ff213883269"
+}
+},
+id: 1511,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item_home_vipcard",
+pos: {
+y: 0,
+x: 2,
+w: 2,
+h: 1
+}
+},
+ver: 1482479139,
+stat_name: "个人中心:账户",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_2:_2:",
+pagenum: 1,
+name: "个人中心:账户",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "个人中心:账户",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/user/info",
+schema: "yktv",
+params: {
+vipdialog: true
+},
+entity: "usercenter:account"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000583E39B96714C035600C5221",
+md5: "32ba9c29f3e5c1173c3c3f778dda1ec7"
+},
+vip: {
+url: "http://r1.cp31.ott.cibntv.net/05100000583E39C56714C035780A82F0",
+md5: "1b40a44097dbb6fbf57ef7cea84162d1"
+}
+},
+id: 1507,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1490247836,
+stat_name: "藏地密码",
+title: "藏地密码",
+hint: {
+left: "8集全"
+},
+stat: {
+from: "0:首页导航_2:精选_2:_3:藏地密码",
+pagenum: 1,
+name: "藏地密码",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 3,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=55fecb54f4b411e5b32f",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/053C000056F8DD4467BC3C568F0A6599"
+}
+},
+id: 3947,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1482479139,
+stat_name: "专题:【每日有料】金晨手撕张天爱 暗指抢其角色",
+title: "",
+stat: {
+from: "0:首页导航_2:精选_2:_4:",
+pagenum: 1,
+name: "专题:【每日有料】金晨手撕张天爱 暗指抢其角色",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=517",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/05100000582A57176714C00402033653",
+md5: "1c3aa392d3c022922619a7a9f1fee121"
+}
+},
+id: 1509,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_2:精选_2:",
+pagenum: 1,
+name: "个人中心",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "个人中心",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 1506,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 10,
+name: "block_grid_activity",
+columns: 1
+},
+ver: 1490326338,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "活动",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490166906,
+stat_name: "活动",
+stat: {
+from: "0:首页导航_2:精选_0:活动_0:",
+pagenum: 1,
+name: "活动",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "活动",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+schema: "yktv",
+params: {
+android_intent: "yunos_newactivity://detail?webtype=yunos&url=http://fez.alicdn.com/wow/tvact/act/tashatest3"
+},
+entity: "activity"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/0510000058D22115A4352505FD0CE9D3",
+md5: "272857ff7368769f8a521433e4a81481"
+}
+},
+id: 4130,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_3:精选_3:活动",
+pagenum: 1,
+name: "活动",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 3,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 4127,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.778,
+name: "block_grid_coverflow_new_h",
+columns: 7
+},
+ver: 1490326984,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "运营测试coverflow",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489990428,
+stat_name: "三生三世十里桃花",
+title: "",
+hint: {
+left: "58集全"
+},
+stat: {
+from: "0:首页导航_2:精选_1:运营测试coverflow_0:",
+pagenum: 1,
+name: "三生三世十里桃花",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845"
+}
+},
+id: 4025,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490181766,
+stat_name: "锦绣未央",
+title: "",
+hint: {
+left: "54集全"
+},
+stat: {
+from: "0:首页导航_2:精选_1:运营测试coverflow_1:",
+pagenum: 1,
+name: "锦绣未央",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=7bd563d8a56811e5be16",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E00005899963A67BC3C6E1307EB9B"
+}
+},
+id: 4028,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490193800,
+stat_name: "健忘村",
+title: "",
+hint: {
+right: "7.6"
+},
+stat: {
+from: "0:首页导航_2:精选_1:运营测试coverflow_2:",
+pagenum: 1,
+name: "健忘村",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=f09338d7951411e69e06",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E000058BF673AADBA1FAE4B0D26AE"
+}
+},
+id: 4030,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490188321,
+stat_name: "花千骨 TV版",
+title: "",
+hint: {
+left: "58集全"
+},
+stat: {
+from: "0:首页导航_2:精选_1:运营测试coverflow_3:",
+pagenum: 1,
+name: "花千骨 TV版",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 3,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=af02ac580b5711e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/050E000058218C7767BC3C1D6205C4A4"
+}
+},
+id: 4031,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490238247,
+stat_name: "火星情报局 第二季	",
+title: "",
+hint: {
+left: "至14期"
+},
+stat: {
+from: "0:首页导航_2:精选_1:运营测试coverflow_4:",
+pagenum: 1,
+name: "火星情报局 第二季	",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=c275562c474811e6a080",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000583BD90467BC3C588804EB18"
+}
+},
+id: 4032,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490326984,
+stat_name: "热血长安 第一季",
+title: "热血长安 第一季",
+hint: {
+left: "24集全"
+},
+stat: {
+from: "0:首页导航_3:精选_4:运营测试coverflow_5:热血长安 第一季",
+pagenum: 1,
+name: "热血长安 第一季",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 5,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=0b562aa88e9111e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/053C000058B3947CADBA1F60040E1BC1"
+}
+},
+id: 4115,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490324582,
+stat_name: "愿有人陪你颠沛流离",
+title: "愿有人陪你颠沛流离",
+hint: {
+left: "至10集"
+},
+stat: {
+from: "0:首页导航_3:精选_2:运营测试coverflow_6:愿有人陪你颠沛流离",
+pagenum: 1,
+name: "愿有人陪你颠沛流离",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=7cefbfbdefbfbd39efbf",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/053C000058BD0C3FADBA1FA80903CA9A"
+}
+},
+id: 4116,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_3:精选_4:运营测试coverflow",
+pagenum: 1,
+name: "运营测试coverflow",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 4,
+spmb: "8271240",
+header_position: "3",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 4022,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+ratio: 1,
+name: "block_grid_button",
+columns: 3
+},
+data_source: "manual",
+ver: 1490183601,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+items: [
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1490182425,
+stat_name: "青云志 TV版",
+title: "青云志 编辑中1412",
+sub_title: "张小凡",
+stat: {
+from: "0:首页导航_2:精选_3:_0:青云志 编辑中1412",
+pagenum: 1,
+name: "青云志 编辑中1412",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+schema: "yktv",
+params: {
+fullscreen: true
+},
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000581015D96714C04F4A0118D0",
+md5: "e9f82a0da5a089c35cddda772cd825b9"
+},
+fore: {
+url: "http://r2.cp31.ott.cibntv.net/051000005809B6A66714C078DE0DC041",
+md5: "a4546b6b5508d0a198caf0fe84b7eab2"
+}
+},
+id: 3651,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1490183600,
+stat_name: "爸爸去哪儿 第四季",
+title: "",
+hint: {
+left: "13期全"
+},
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_3:_1:",
+pagenum: 1,
+name: "爸爸去哪儿 第四季",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/05100000580F13EF6714C05D98039074",
+md5: "f9f445803e0b33316471ea18c5aee740"
+},
+fore: {
+url: "http://r2.cp31.ott.cibntv.net/05100000580F13FB6714C05DAB065FC6",
+md5: "43203d702d47a6c36241736cf6016abc"
+}
+},
+id: 206,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_3:",
+pagenum: 1,
+name: "频道",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 3,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+background: {
+url: "http://r1.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A"
+}
+},
+id: 203,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+ratio: 3,
+name: "block_grid_inline_play",
+columns: 8
+},
+data_source: "subject",
+ver: 1490094679,
+target: {
+schema: "yktv",
+entity: "inline_play"
+},
+title: "inline播放--运营",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+title: "《奇异博士》定档11月4日北美同步上映 中国版预告片公布 卷福将来华宣传",
+target: {
+url: "tv/v3/subject/detail?from=inline&id=517",
+schema: "yktv",
+entity: "subject:play"
+},
+videoid: "XMTc1NTgzMjEyOA=="
+},
+{
+ui_type: {
+name: "display_item"
+},
+title: "青云志 TV版",
+videoid: "XMTgxMTI2MzQ2OA==",
+target: {
+url: "tv/v3/subject/detail?from=inline&id=517",
+schema: "yktv",
+entity: "subject:play"
+},
+desc: "草庙村少年张小凡，在经历全村尽灭的惨案后，被青云门收归门下。为报答师门恩情，张小凡勤学苦练，却因自身愚钝，一无所成。陷入迷茫与孤独境遇中的他，幸有鬼王之女碧瑶和好友林惊羽从旁安慰陪伴，度过了人生最彷徨的阶段，于是三人一同修行，一同成长。 　　在经历过一次次的坎坷磨难后，张小凡逐渐成熟，而与碧瑶的感情，也在患难与共中日渐深厚。然而，鬼王为复活兽神并颠覆青云，设下连环阴谋。张小凡悍然迎敌，就在命悬一刻之际，碧瑶舍身为他挡下致命的一剑，重伤昏迷，张小凡带着沉睡的碧瑶流浪世间。鬼王卷土重来，最终，张小凡以强大的勇气和信念，挫败鬼王，化解了正反两派纠葛千年的过节，完成了少年时与碧瑶、林惊羽一众同伴们的约定。在少年们的共同努力之下，终换得山河锦绣如画，沃土千里绵延。"
+},
+{
+ui_type: {
+name: "display_item"
+},
+title: "张天爱截胡金晨揭真相 ",
+videoid: "XMTgxOTUxNTM3Mg==",
+target: {
+url: "tv/v3/subject/detail?from=inline&id=517",
+schema: "yktv",
+entity: "subject:play"
+},
+desc: ""
+},
+{
+ui_type: {
+name: "display_item"
+},
+title: "更多精彩",
+target: {
+url: "tv/v3/subject/detail?from=inline&id=517",
+schema: "yktv",
+entity: "subject:play"
+},
+desc: ""
+}
+],
+stat: {
+from: "0:首页导航_2:精选_5:inline播放--运营",
+pagenum: 1,
+name: "inline播放--运营",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "inline播放",
+position: 5,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选_inline播放"
+},
+filter: "",
+is_template: false,
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/05100000582A57176714C00402033653"
+},
+background: {
+url: "http://r4.cp31.ott.cibntv.net/05100000582A570F6714C003EF0E1DCF"
+}
+},
+desc: "",
+id: 4011,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.7778,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1490181639,
+target: {
+url: "tv/v3/live/playurl?zid=11562",
+schema: "yktv",
+params: {
+fullscreen: true,
+android_intent: ""
+},
+entity: "detail:live"
+},
+title: "Live直击",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488785292,
+target: {
+url: "tv/v3/show/detail?id=%2040f5e9cbab0911e68fae",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "ID直播",
+stat: {
+from: "0:首页导航_2:精选_4:Live直击_0:ID直播",
+pagenum: 1,
+name: "ID直播",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+images: {
+left_bottom_corner: {
+url: "http://r1.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+right_bottom_corner: {
+url: "http://r3.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+background: {
+url: "http://r4.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A"
+},
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/051000005848E5536714C010870494EF",
+md5: "28dac70bfdec582c9c05a50d8f7dc072"
+},
+left_top_corner: {
+url: "http://r4.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+},
+right_top_corner: {
+url: "http://r1.cp31.ott.cibntv.net/05100000581993366714C018C6049942",
+md5: "61b4b9458247fc64ac2b09163365dfc4"
+}
+},
+id: 3946,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488785317,
+target: {
+url: "tv/v3/show/detail?id=%2066b06d7ea18611e69e06",
+schema: "yktv",
+entity: "detail:show"
+},
+stat: {
+from: "0:首页导航_2:精选_4:Live直击_1:",
+pagenum: 1,
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/051000005848E5696714C010B90A2B95",
+md5: "46578bff1f585b75837db08cb95a9695"
+},
+background: {
+url: "http://r2.cp31.ott.cibntv.net/05100000586230C56714C07EFF04D42A"
+}
+},
+id: 3380,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488785338,
+stat_name: "直播",
+stat: {
+from: "0:首页导航_2:精选_4:Live直击_2:",
+pagenum: 1,
+name: "直播",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "直播",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/live/playurl?zid=11353",
+schema: "yktv",
+entity: "detail:live"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/051000005848E5776714C010D4091312",
+md5: "a15ae92fed3b1a5df993a9c12125b7d0"
+},
+background: {
+url: "http://r4.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A"
+}
+},
+id: 3389,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_4:Live直击",
+pagenum: 1,
+name: "Live直击",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "直播",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+id: 3350,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.7778,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1490181639,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "强档热播",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489472801,
+stat_name: "三生三世十里桃花",
+title: "三生三世十里桃花",
+hint: {
+left: "58集全"
+},
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_0:三生三世十里桃花",
+pagenum: 1,
+name: "三生三世十里桃花",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=387477fb41a011e69c81&vid=XMjUwMTQ4Nzc2MA==",
+schema: "yktv",
+params: {
+fullscreen: true,
+android_intent: "yunos_newactivity://detail?webtype=yunos&url=http://fez.alicdn.com/wow/tvact/act/tashatest3"
+},
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050E0000587C6A8367BC3C214D08E845",
+md5: "7e0d9d77ee5511d50b99ecf738e6a8ea"
+}
+},
+id: 4041,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1489460919,
+stat_name: "步步惊心:丽",
+title: "",
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_1:",
+pagenum: 1,
+name: "步步惊心:丽",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=67d68692e98711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580F0D3C6714C05DBA06CCA8",
+md5: "7e0d9d77ee5511d50b99ecf738e6a8ea"
+}
+},
+id: 4038,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490181639,
+stat_name: "魔兽",
+title: "",
+hint: {
+right: "9.0"
+},
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_2:",
+pagenum: 1,
+name: "魔兽",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=127771b40e0711df97c0",
+schema: "yktv",
+params: {
+android_intent: "http://fez.alicdn.com/wow/tvact/act/tashatest4"
+},
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/05100000580F07296714C05DB80EED24",
+md5: "c5709a086903f1a0ec4e76ff9f3dc4f6"
+}
+},
+id: 4039,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1490181634,
+stat_name: "魔兽",
+title: "",
+hint: {
+right: "9.0"
+},
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_3:",
+pagenum: 1,
+name: "魔兽",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 3,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/show/detail?id=127771b40e0711df97c0",
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/05100000580F07296714C05DB80EED24",
+md5: "c5709a086903f1a0ec4e76ff9f3dc4f6"
+}
+},
+id: 550,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:剧热点-十大必看朝野权谋大剧",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_4:",
+pagenum: 1,
+name: "专题:剧热点-十大必看朝野权谋大剧",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "海报专题",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=516",
+schema: "yktv",
+entity: "subject:poster"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000582993786714C019FD06BFEF",
+md5: "d0a2479ce71f554b58e3da31e9f895cc"
+}
+},
+id: 547,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:剧热点-十大必看朝野权谋大剧",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_6:强档热播_4:",
+pagenum: 1,
+name: "专题:剧热点-十大必看朝野权谋大剧",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "海报专题",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=516",
+schema: "yktv",
+entity: "subject:poster"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000582993786714C019FD06BFEF",
+md5: "d0a2479ce71f554b58e3da31e9f895cc"
+}
+},
+id: 547,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+from: "0:首页导航_2:精选_6:强档热播",
+pagenum: 1,
+name: "强档热播",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "节目详情页",
+position: 6,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+id: 546,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.778,
+name: "block_grid_classic",
+columns: 3
+},
+ver: 1488533212,
+target: {
+schema: "yktv"
+},
+title: "品味生活",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:【美妆练习生】No.30万圣节妆容这么画 逼疯众人妥妥的",
+title: "",
+hint: {
+right: "9.3"
+},
+stat: {
+from: "0:首页导航_2:精选_7:品味生活_0:",
+pagenum: 1,
+name: "专题:【美妆练习生】No.30万圣节妆容这么画 逼疯众人妥妥的",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=468",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580FE3BA6714C0502F0D12A7",
+md5: "9f085e1202bc0291de96ebde386cd7db"
+}
+},
+id: 1186,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:【今天吃什么】不食螃蟹辜负腹",
+title: "",
+hint: {
+right: "9.4"
+},
+stat: {
+from: "0:首页导航_2:精选_7:品味生活_1:",
+pagenum: 1,
+name: "专题:【今天吃什么】不食螃蟹辜负腹",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=405",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/0510000057D777A16714C0339F0A9C04"
+}
+},
+id: 1185,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:【享得美】不能再往下拽的诱惑",
+title: "",
+hint: {
+right: "9.0"
+},
+stat: {
+from: "0:首页导航_2:精选_7:品味生活_2:",
+pagenum: 1,
+name: "专题:【享得美】不能再往下拽的诱惑",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=463",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580980C66714C079700C4BB4"
+}
+},
+id: 1190,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+header_name: "精选",
+name: "品味生活",
+spma: "a2h1w",
+navigation: "首页导航",
+spmb: "8271240",
+pagenum: 1,
+position: 7,
+from: "0:首页导航_2:精选_7:品味生活",
+header_position: "2"
+},
+filter: "",
+is_template: false,
+id: 1184,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.778,
+name: "block_grid_top",
+columns: 3
+},
+ver: 1488533094,
+target: {
+schema: "yktv"
+},
+title: "热映排行",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+data_source: "manual",
+ver: 1482479139,
+stat_name: "频道:北美票房排行榜",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_8:热映排行_0:",
+pagenum: 1,
+name: "频道:北美票房排行榜",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=692&tab=213",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000581174396714C04D9906B921",
+md5: "dd5a8a53744dfa97fcd4e16d34310884"
+}
+},
+id: 55,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+data_source: "manual",
+ver: 1482479139,
+stat_name: "频道:热播大片排行榜",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_8:热映排行_1:",
+pagenum: 1,
+name: "频道:热播大片排行榜",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=692&tab=214",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/05100000581174496714C04DD20EA32E",
+md5: "13960ac79a245d938eac9706e0639b94"
+}
+},
+id: 56,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+data_source: "manual",
+ver: 1482479139,
+stat_name: "频道:爆点综艺排行榜",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_8:热映排行_2:",
+pagenum: 1,
+name: "频道:爆点综艺排行榜",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=692&tab=215",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/051000005811744F6714C04DDB0AE2FC",
+md5: "7af20d43d3026bf078eed97aa68f773a"
+}
+},
+id: 77,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+stat: {
+header_name: "精选",
+name: "热映排行",
+spma: "a2h1w",
+navigation: "首页导航",
+spmb: "8271240",
+pagenum: 1,
+position: 8,
+from: "0:首页导航_2:精选_8:热映排行",
+header_position: "2"
+},
+filter: "",
+alias: "",
+is_template: false,
+id: 54,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.3,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1488421714,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "更多精彩",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+data_source: "filter",
+ver: 1482479139,
+stat_name: "频道:全部",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_0:",
+pagenum: 1,
+name: "频道:全部",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "showcategory:电影|area:美国|ob:4",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=800&tab=196",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r4.cp31.ott.cibntv.net/05100000580DD1D66714C07C0209436D",
+md5: "38efca01906f5f4fd003aef0ea52d2cc"
+}
+},
+id: 81,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "频道:全部",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_1:",
+pagenum: 1,
+name: "频道:全部",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=788&tab=244",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/05100000580DCC3C6714C07BB50ECC17",
+md5: "bef2039b37e367ff1f0790aeec1536d0"
+}
+},
+id: 82,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "频道:全部",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_2:",
+pagenum: 1,
+name: "频道:全部",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=840&tab=260",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580DD46F6714C07B820F0612",
+md5: "4bbebcb3c63b32781f432cf5cdb26e27"
+}
+},
+id: 83,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "频道:全部",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_3:",
+pagenum: 1,
+name: "频道:全部",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 3,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=380&tab=234",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/05100000580DBCC56714C07C2A013609",
+md5: "4af4526e7d5f4877f57260319d9f595b"
+}
+},
+id: 84,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "频道:全部",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_4:",
+pagenum: 1,
+name: "频道:全部",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 4,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=889&tab=169",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/05100000580DDDDC6714C07C600D19B5",
+md5: "378cbb2a17e41b3fb0fb7c3c98decc3c"
+}
+},
+id: 85,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "频道:",
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩_5:",
+pagenum: 1,
+name: "频道:",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 5,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+target: {
+url: "tv/v3/component/list?id=2807&tab=11469",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580DD85D6714C07B9301A348",
+md5: "aa25cacdc6d895fbdee517461e6c0ab7"
+}
+},
+id: 3369,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_9:更多精彩",
+pagenum: 1,
+name: "更多精彩",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 9,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "",
+is_template: false,
+id: 80,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 11.217,
+name: "block_grid",
+columns: 1
+},
+data_source: "manual",
+ver: 1488421774,
+target: {
+schema: "yktv",
+params: {
+fullscreen: true,
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+items: [
+{
+ui_type: {
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1482829996,
+stat_name: "个人中心:账户",
+stat: {
+from: "0:首页导航_2:精选_10:_0:",
+pagenum: 1,
+name: "个人中心:账户",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "个人中心:账户",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/user/info",
+schema: "yktv",
+params: {
+vipdialog: true
+},
+entity: "usercenter:account"
+},
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/05100000586230A96714C07FD2005BBD",
+md5: "862cd819976eb793ffdf01ea0450cf2e"
+}
+},
+id: 3937,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+stat: {
+from: "0:首页导航_2:精选_10:",
+pagenum: 1,
+name: "频道",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 10,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+alias: "detail_vip",
+is_template: false,
+id: 3901,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.778,
+name: "block_grid_classic",
+columns: 3
+},
+ver: 1488533125,
+target: {
+schema: "yktv"
+},
+title: "精彩不断",
+items: [
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "轮播",
+title: "",
+stat: {
+from: "0:首页导航_2:精选_11:精彩不断_0:",
+pagenum: 1,
+name: "轮播",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "轮播",
+position: 0,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "launcher/rotate/videos?channel_id=034",
+schema: "yktv",
+entity: "rotate"
+},
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/05100000581203976714C04D720E0981",
+md5: "d0a2479ce71f554b58e3da31e9f895cc"
+}
+},
+id: 1173,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1488533121,
+stat_name: "专题:枪战火拼哪家强",
+title: "",
+stat: {
+from: "0:首页导航_2:精选_11:精彩不断_1:",
+pagenum: 1,
+name: "专题:枪战火拼哪家强",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 1,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=288",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/051000005812D21E6714C03F5F0147D6",
+md5: "88a91aed3194bdaa6ccfde3f52195cd2"
+},
+right_top_corner: {
+url: "http://r1.cp31.ott.cibntv.net/cd507ebd4fe4edafe90017de77fa1ca6?fid=2302266688-250528-392199824350785&time=1488531600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-FzZudzLOvFi0wVpC3TQofB0RDik%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=1431512643519982154&dp-callid=0&size=c850_u5"
+}
+},
+id: 3993,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+name: "display_item"
+},
+ver: 1482479139,
+stat_name: "专题:【笑不能停】熊孩子玩脱了",
+title: "",
+stat: {
+from: "0:首页导航_2:精选_11:精彩不断_2:",
+pagenum: 1,
+name: "专题:【笑不能停】熊孩子玩脱了",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "播放专题",
+position: 2,
+spmb: "8271240",
+header_position: "2",
+header_name: "精选"
+},
+filter: "",
+is_template: false,
+target: {
+url: "tv/v3/subject/detail?id=418",
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/0510000057DFACB96714C071A107E734",
+md5: "e9216538f969d051c99e19caa4e03663"
+}
+},
+id: 1171,
+ad: {
+enable: false
+}
+}
+],
+stat: {
+header_name: "精选",
+name: "精彩不断",
+spma: "a2h1w",
+navigation: "首页导航",
+spmb: "8271240",
+pagenum: 1,
+position: 11,
+from: "0:首页导航_2:精选_11:精彩不断",
+header_position: "2"
+},
+filter: "",
+is_template: false,
+id: 1170,
+ad: {
+enable: false
+}
+}
+],
+id: 493,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=691&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490262817,
+target: {
+url: "tv/v3/component/list?id=800&tab=691",
+schema: "yktv",
+entity: "channel"
+},
+title: "电视剧",
+stat: {
+from: "0:首页导航_3:电视剧",
+pagenum: 1,
+name: "电视剧",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 3,
+spmb: "8271956",
+header_position: "3",
+header_name: "电视剧"
+},
+filter: "",
+alias: "tv",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005807263A6714C00DBA016398",
+md5: "564a63913d399924b686227179c7f61e"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB466714C076320BCD14",
+md5: "5319a5adf375fcd7aa22d1e89c64a102"
+},
+background: {
+url: "http://r3.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A",
+md5: "b6b2ed29cbfcc097397c8c7376f9af71"
+}
+},
+blocks: [ ],
+id: 691,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=446&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490197900,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "电影",
+sub_title: "",
+stat: {
+from: "0:首页导航_4:电影",
+pagenum: 1,
+name: "电影",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 4,
+spmb: "8271958",
+header_position: "4",
+header_name: "电影"
+},
+filter: "",
+alias: "movie",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580725E86714C00D090A517E",
+md5: "4c83e5db0ae08a453fc21ced15d8fc81"
+},
+normal_icon: {
+url: "http://r2.cp31.ott.cibntv.net/0510000057FDD1A86714C004CD0531A8",
+md5: "a29c4de32bdfe1b8e60d821b6b1f3374"
+},
+background: {
+url: "http://r4.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A",
+md5: "b6b2ed29cbfcc097397c8c7376f9af71"
+}
+},
+blocks: [ ],
+id: 446,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=949&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490319142,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "综艺",
+stat: {
+from: "0:首页导航_5:综艺",
+pagenum: 1,
+name: "综艺",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 5,
+spmb: "8271961",
+header_position: "5",
+header_name: "综艺"
+},
+filter: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580726826714C00D02004B1C",
+md5: "428b990242c559bfb255e2c90a012962"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB736714C076890922B6",
+md5: "b3ad85e931ee820aabe4315dc8abbfed"
+},
+background: {
+url: "http://r2.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A",
+md5: "b6b2ed29cbfcc097397c8c7376f9af71"
+}
+},
+blocks: [ ],
+id: 949,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=622&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490197898,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "少儿",
+stat: {
+from: "0:首页导航_6:少儿",
+pagenum: 1,
+name: "少儿",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 6,
+spmb: "8271970",
+header_position: "6",
+header_name: "少儿"
+},
+filter: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r2.cp31.ott.cibntv.net/051000005801CB906714C076C30EC37E",
+md5: "0f3023f208d4abe49603fc4dc8acee90"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB8A6714C076B506DE99",
+md5: "2903b0929699f2b61d069a2ae802634d"
+},
+background: {
+url: "http://r2.cp31.ott.cibntv.net/05100000585B72B26714C0154400909A",
+md5: "b6b2ed29cbfcc097397c8c7376f9af71"
+}
+},
+blocks: [ ],
+id: 622,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=3071&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490191853,
+target: {
+schema: "yktv",
+params: {
+fullscreen: true,
+android_intent: ""
+},
+entity: "channel"
+},
+title: "少儿测试",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "少儿测试",
+from: "0:首页导航_7:少儿测试",
+navigation: "首页导航",
+type: "频道",
+position: 7,
+header_position: "7",
+header_name: "少儿测试"
+},
+filter: "",
+alias: "",
+is_template: false,
+blocks: [ ],
+id: 3071,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=986&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490194272,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "会员",
+stat: {
+from: "0:首页导航_8:会员",
+pagenum: 1,
+name: "会员",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 8,
+spmb: "8271960",
+header_position: "8",
+header_name: "会员"
+},
+filter: "",
+alias: "vip",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580722406714C00DE607E367",
+md5: "92f3bd11d6e63248523d501ac50405ab"
+},
+normal_icon: {
+url: "http://r2.cp31.ott.cibntv.net/051000005801CB206714C07725016B54",
+md5: "294310308a3317a8baf6e305fbd69114"
+}
+},
+blocks: [ ],
+id: 986,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=395&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490193177,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "生活",
+sub_title: "",
+stat: {
+from: "0:首页导航_9:生活",
+pagenum: 1,
+name: "生活",
+spma: "a2h1w",
+navigation: "首页导航",
+type: "频道",
+position: 9,
+spmb: "8271971",
+header_position: "9",
+header_name: "生活"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r2.cp31.ott.cibntv.net/051000005812CDCB6714C03F7301F42C",
+md5: "3b07c2c5ee07bf885dea5d28eb0a1b61"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005812CDC16714C03F6107F9D4",
+md5: "982e2f37eb46c55bb0fdaa0f11bbf11c"
+}
+},
+blocks: [ ],
+id: 395,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=317&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490258690,
+target: {
+schema: "yktv"
+},
+title: "模板",
+stat: {
+header_name: "模板",
+name: "模板",
+pagenum: 1,
+position: 10,
+from: "0:首页导航_10:模板",
+navigation: "首页导航",
+header_position: "10"
+},
+filter: "",
+alias: "default_templates",
+is_template: true,
+blocks: [ ],
+id: 317,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=1299&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490185921,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "测试用",
+stat: {
+pagenum: 1,
+name: "测试用",
+from: "0:首页导航_11:测试用",
+navigation: "首页导航",
+type: "节目详情页",
+position: 11,
+header_position: "11",
+header_name: "测试用"
+},
+filter: "",
+is_template: false,
+blocks: [ ],
+id: 1299,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=2&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490319142,
+target: {
+url: "tv/v3/component/list?id=118",
+schema: "yktv",
+entity: "channel"
+},
+title: "精选.Old",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "精选.Old",
+from: "0:首页导航_12:精选.Old",
+navigation: "首页导航",
+type: "频道",
+position: 12,
+header_position: "12",
+header_name: "精选.Old"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r3.cp31.ott.cibntv.net/05100000580042086714C06D8E065F7D",
+md5: "d014e4bcf1e22c1de086b07cc6380810"
+},
+normal_icon: {
+url: "http://r2.cp31.ott.cibntv.net/051000005801DC036714C0764008C7ED",
+md5: "d1e32743d1904d522cc8d46f5d1e06bb"
+}
+},
+blocks: [ ],
+id: 2,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=87&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490238275,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "会员.Old",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "会员.Old",
+from: "0:首页导航_13:会员.Old",
+navigation: "首页导航",
+type: "频道",
+position: 13,
+header_position: "13",
+header_name: "会员.Old"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r2.cp31.ott.cibntv.net/05100000580722406714C00DE607E367",
+md5: "92f3bd11d6e63248523d501ac50405ab"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB206714C07725016B54",
+md5: "294310308a3317a8baf6e305fbd69114"
+}
+},
+blocks: [ ],
+id: 87,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=4&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490257990,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "电视剧.Old",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "电视剧.Old",
+from: "0:首页导航_14:电视剧.Old",
+navigation: "首页导航",
+type: "频道",
+position: 14,
+header_position: "14",
+header_name: "电视剧.Old"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005807263A6714C00DBA016398",
+md5: "564a63913d399924b686227179c7f61e"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB466714C076320BCD14",
+md5: "5319a5adf375fcd7aa22d1e89c64a102"
+},
+background: {
+url: "http://r1.cp31.ott.cibntv.net/0510000057FDD42E6714C0051D034E4C",
+md5: "c8a8857a82d171dd33a477fcc9420f0f"
+}
+},
+blocks: [ ],
+id: 4,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=3&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490238275,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "电影.Old",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "电影.Old",
+from: "0:首页导航_15:电影.Old",
+navigation: "首页导航",
+type: "频道",
+position: 15,
+header_position: "15",
+header_name: "电影.Old"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r4.cp31.ott.cibntv.net/05100000580725E86714C00D090A517E",
+md5: "4c83e5db0ae08a453fc21ced15d8fc81"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/0510000057FDD1A86714C004CD0531A8",
+md5: "a29c4de32bdfe1b8e60d821b6b1f3374"
+}
+},
+blocks: [ ],
+id: 3,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=5&is_src=1",
+ui_type: {
+name: "block_list"
+},
+data_source: "manual",
+ver: 1490183594,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "综艺.Old",
+sub_title: "",
+stat: {
+pagenum: 1,
+name: "综艺.Old",
+from: "0:首页导航_16:综艺.Old",
+navigation: "首页导航",
+type: "频道",
+position: 16,
+header_position: "16",
+header_name: "综艺.Old"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r1.cp31.ott.cibntv.net/05100000580726826714C00D02004B1C",
+md5: "428b990242c559bfb255e2c90a012962"
+},
+normal_icon: {
+url: "http://r3.cp31.ott.cibntv.net/051000005801CB736714C076890922B6",
+md5: "b3ad85e931ee820aabe4315dc8abbfed"
+}
+},
+blocks: [ ],
+id: 5,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=6&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490191952,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+sub_title: "",
+stat: {
+from: "0:首页导航_17:",
+pagenum: 1,
+name: "频道",
+type: "频道",
+position: 17,
+navigation: "首页导航",
+header_position: "17"
+},
+filter: "",
+alias: "",
+is_template: false,
+images: {
+focused_icon: {
+url: "http://r4.cp31.ott.cibntv.net/051000005801CB906714C076C30EC37E",
+md5: "0f3023f208d4abe49603fc4dc8acee90"
+},
+normal_icon: {
+url: "http://r1.cp31.ott.cibntv.net/051000005801CB8A6714C076B506DE99",
+md5: "2903b0929699f2b61d069a2ae802634d"
+}
+},
+blocks: [ ],
+id: 6,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=2822&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1490247836,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "电视猫",
+stat: {
+pagenum: 1,
+name: "电视猫",
+from: "0:首页导航_18:电视猫",
+navigation: "首页导航",
+type: "节目详情页",
+position: 18,
+header_position: "18",
+header_name: "电视猫"
+},
+filter: "",
+is_template: false,
+blocks: [ ],
+id: 2822,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=3939&is_src=1",
+ui_type: {
+name: "block_list"
+},
+ver: 1489493020,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "张涛测试专用他人勿改",
+stat: {
+pagenum: 1,
+name: "张涛测试专用他人勿改",
+from: "0:首页导航_19:张涛测试专用他人勿改",
+navigation: "首页导航",
+type: "节目详情页",
+position: 19,
+header_position: "19",
+header_name: "张涛测试专用他人勿改"
+},
+filter: "",
+is_template: false,
+blocks: [ ],
+id: 3939,
+ad: {
+enable: false
+}
+}
+],
+id: 1
+}
