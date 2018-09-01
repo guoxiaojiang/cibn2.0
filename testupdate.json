@@ -1,7 +1,7 @@
 {
   "status": "success", 
   "code": 1, 
-  "update":{
+  "data":{
   	"vercode":2,
   	"type":2,
     "download":"", 
