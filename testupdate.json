@@ -4,7 +4,7 @@
   "data":{
   	"vercode":2,
   	"type":2,
-    "download":"", 
+    "download":"https://guoxj.oss-cn-beijing.aliyuncs.com/thy/app-debug.apk?Expires=1535828720&OSSAccessKeyId=TMP.AQGObQTLNfINL59MxNFc9zAeWP37ZrXM6Ezvm-JiEOCp9WYsH-1keiPQzky6MC4CFQCdra-uvRvvhYZBI0aCDWPnf3cdsgIVAP10z4UnMHRzGwkuVN0y7doXCUOv&Signature=kc%2B4qbXR4n2gRpIreZQx0yVd9mU%3D", 
     "md5":"",
     "desc":"增加了新功能，完善了功能； 性能优化； 开发期间测试"
   }
