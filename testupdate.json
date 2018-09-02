@@ -2,10 +2,10 @@
   "status": "success", 
   "code": 1, 
   "data":{
-  	"vercode":1,
+  	"vercode":2,
   	"type":2,
-    "download":"https://guoxj.oss-cn-beijing.aliyuncs.com/thy/app-debug-20180902.apk?Expires=1535831130&OSSAccessKeyId=TMP.AQGObQTLNfINL59MxNFc9zAeWP37ZrXM6Ezvm-JiEOCp9WYsH-1keiPQzky6MC4CFQCdra-uvRvvhYZBI0aCDWPnf3cdsgIVAP10z4UnMHRzGwkuVN0y7doXCUOv&Signature=fLdj9gzHDfSZu4Jk12N45EzB6%2Fc%3D", 
+    "download":"https://guoxj.oss-cn-beijing.aliyuncs.com/thy/app-debug-20180902-2.apk?Expires=1535870435&OSSAccessKeyId=TMP.AQHq1YdT-P31eVcURas8OHG8kRb4iKt9Hwc10tyYesNlCrXCXGfgKE2b3mOsADAtAhUAu5uPq8NFFKZq8nItAS3rNthNmFgCFEJEjJAnokOGOpFmicU8-DuImW0B&Signature=PVdwHvYNtLy7jcFQMmvZ0F0iNIc%3D", 
     "md5":"",
-    "desc":"增加了新功能，完善了功能； 性能优化； 开发期间测试"
+    "desc":"增加了新功能，把语音直播的推流拉流正式跑通了； 修复bug； 性能优化；balabala "
   }
 }
